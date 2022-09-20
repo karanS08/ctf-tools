@@ -33,7 +33,7 @@
 ## Rules
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
-- Follow the Table foormat for the PR submissions .
+- Follow the Table format for the PR submissions .
 
 
 ---
