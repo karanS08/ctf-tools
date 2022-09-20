@@ -33,7 +33,8 @@
 ## Rules
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
--  Upload your code in this repository to particular section if folder is not present then create folder.
+- Follow the Table foormat for the PR submissions .
+
 
 ---
 
@@ -49,9 +50,12 @@
 Steps for adding your name in the CONTRIBUTERS.md File
 
     1. Fork this repo
-    2. Edit `CONTRIBUTERS.md` file
-    3. Add your Name also link your github profile
-    4. Make pull request
+    2. Edit `Tools.md` file 
+    3. Add Name of tool , link to the tool , a short  explanation of your favorite tool in the table .
+    4. Edit `CONTRIBUTERS.md` file
+    5. Add your Name also link your github profile seprated by a | (pipe).
+        eg. | Karan | https://github.com/karanS08 | 
+    6. Make your pull request 🙌🏽.
 
 ----
 
