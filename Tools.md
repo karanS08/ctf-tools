@@ -7,6 +7,7 @@
 | Feroxbuster      | Web                 | https://github.com/epi052/feroxbuster       |A simple, fast, recursive content discovery tool written in Rust            |
 | burp suite       | Web                 | https://portswigger.net/burp/communitydownload |It is tool for performing security testing of web applications.|
 | mitmproxy        | Web                 | https://mitmproxy.org                       | Mitmproxy is a free and open source interactive HTTPS proxy. |
+| Commix        | Web                 | https://mitmproxy.org                       | Command injection and exploitation tool. |
 
 <br>
 
@@ -28,6 +29,8 @@
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Exiftool         | Forensics           | https://github.com/exiftool                 | Tool for looking into meta data and other useful information related to a particular image file                                                | 
 | Binwalk          | Forensics           | https://github.com/ReFirmLabs/binwalk       | Tool for searching a given binary image for embedded files and executable code.                                                                |
+| PeePdf          | Forensics           | https://github.com/jesparza/peepdf       | Powerful Python tool to analyze PDF documents.
+                                                                |
 
 <br>
 
