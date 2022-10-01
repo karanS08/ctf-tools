@@ -24,6 +24,8 @@
 | Exiftool         | Forensics           | https://github.com/exiftool                 | Tool for looking into meta data and other useful information related to a particular image file                                                | 
 | Binwalk          | Forensics           | https://github.com/ReFirmLabs/binwalk       | Tool for searching a given binary image for embedded files and executable code.                                                                |
 
+<br>
+
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | one_gadget       | pwn                 | https://github.com/david942j/one_gadget     | Tool for finding ROP-tools in libc6.so.6                                                                                                       |
