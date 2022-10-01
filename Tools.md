@@ -47,5 +47,10 @@
 | Z3 Solver        | Reverse Engineering | https://github.com/Z3Prover/z3              | SAT Solver for automating finding value with multiple constraint checks                                                                        |
 | cutter           | Reverse Engineering | https://github.com/rizinorg/cutter          | Reverse Engineering platform (disassembler)                                                                                                    |
 | IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/               | Tool for disassembling a binary file and also a versatile debugger                                                                             |
-| gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
+| gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.    
 
+<br>
+
+| Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
+|--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |                            
+| JSFuck           | Obfuscation | http://www.jsfuck.com/ | JSFuck is a tool that can encode any javascript code into only 6 characters `(,),+,[,],!`|
