@@ -14,3 +14,4 @@
 | Spiderfoot | OSINT | https://www.spiderfoot.net/ | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address. |
 | Postman      | Web       | https://www.postman.com/                | Tool for testing API calls and stubing the data to APIs to mock the calls|
 | Exiftool | Forensics | https://github.com/exiftool | Tool for looking into meta data and other useful information related to a particular image file | 
+| zsteg| Steganography | https://github.com/zed-0xff/zsteg | checks for hidden text in PNG and BMP files |
