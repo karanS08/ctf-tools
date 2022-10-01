@@ -56,6 +56,8 @@ Steps for adding your name in the CONTRIBUTERS.md File
     5. Add your Name also link your github profile seprated by a | (pipe).
         eg. | Karan | https://github.com/karanS08 | 
     6. Make your pull request 🙌🏽.
+    7. Don't forget to star the repo 🙂.
+
 
 ----
 
