@@ -7,3 +7,4 @@
 | gdb          | Reversing | https://www.sourceware.org/gdb/         | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory. |
 | Nmap         | Network   | https://nmap.org/                       | utility for network discovery and security auditing.                                                            |
 | Postman      | Web       | https://www.postman.com/                | Tool for testing API calls and stubing the data to APIs to mock the calls                                       |
+
