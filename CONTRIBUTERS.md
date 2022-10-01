@@ -1,5 +1,5 @@
-| Name     | GitHub Link|
-| ---      | ---       |
+| Name         | GitHub Link                     |
+| ------------ | ------------------------------- |
 | Karan Sharma | https://github.com/karanS08     |
 | Kitton | https://github.com/Kittonn    |
 | Anurag Roy | https://github.com/AnuragRoy485 |
@@ -8,4 +8,4 @@
 | Karan|  https://github.com/Ye8i|
 | Arn |  https://github.com/arn355 |
 | Barw |  https://github.com/BarwSirati |
-
+| Jaammeesss   | https://github.com/Jaammeesss   |
