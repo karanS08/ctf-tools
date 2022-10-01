@@ -1,4 +1,6 @@
-| Name     | GitHub Link|
-| ---      | ---       |
-| Karan Sharma | https://github.com/karanS08     |
-| Kitton | https://github.com/Kittonn    |
+| Name         | GitHub Link                 |
+|--------------|-----------------------------|
+| Karan Sharma | https://github.com/karanS08 |
+| Kitton       | https://github.com/Kittonn  |
+| Skofli       | https://github.com/skofli   |
+
