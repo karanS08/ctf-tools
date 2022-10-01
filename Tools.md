@@ -3,7 +3,10 @@
 | Dirsearch        | Web                 | https://github.com/maurosoria/dirsearch     | Tool for scanning a website path.                                                                                                              |
 | Sqlmap           | Web                 | https://sqlmap.org/                         | automates the process of detecting and exploiting SQL injection                                                                                |
 | HackBrowserData  | Web                 | https://github.com/moonD4rk/HackBrowserData | Tools that could help us decrypt data like password, bookmark, history from the browser.                                                       |
-| Postman          | Web                 | https://www.postman.com/                    | Tool for testing API calls and stubing the data to APIs to mock the calls                                                                      |
+| Postman          | Web                 | https://www.postman.com/                    | Tool for testing API calls and stubing the data to APIs to mock the calls    |
+| Feroxbuster      | Web                 | https://github.com/epi052/feroxbuster       |A simple, fast, recursive content discovery tool written in Rust            |
+
+
 <br>
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
