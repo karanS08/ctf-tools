@@ -37,6 +37,7 @@
 | pwntools         | pwn                 | https://github.com/Gallopsled/pwntools      | Library to develop exploits in Python                                                                                                          | 
 | metasploit       | pwn                 | https://www.metasploit.com/                 | Very powerful penetration testing framework                                                                                                    |
 | Nmap             | pwn                 | https://nmap.org/                           | utility for network discovery and security auditing.                                                                                           |
+| Wireshark             | pwn                 | https://wireshark.org/                           | Network protocol analyzer tool                                                                                           |
 
 <br>
 
