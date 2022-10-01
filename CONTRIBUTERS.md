@@ -8,3 +8,4 @@
 | Karan        | https://github.com/Ye8i         |
 | Arn          | https://github.com/arn355       |
 | Jaammeesss   | https://github.com/Jaammeesss   |
+| Rishi Goswami | https://github.com/rishig2003  |
