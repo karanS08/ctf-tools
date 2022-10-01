@@ -5,9 +5,11 @@
 | HackBrowserData  | Web                 | https://github.com/moonD4rk/HackBrowserData | Tools that could help us decrypt data like password, bookmark, history from the browser.                                                       |
 | Postman          | Web                 | https://www.postman.com/                    | Tool for testing API calls and stubing the data to APIs to mock the calls    |
 | Feroxbuster      | Web                 | https://github.com/epi052/feroxbuster       |A simple, fast, recursive content discovery tool written in Rust            |
+| burp suite       | Web                 | https://portswigger.net/burp/communitydownload |It is tool for performing security testing of web applications.|
 
 
 <br>
+
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
