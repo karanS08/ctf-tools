@@ -9,3 +9,4 @@
 | Samuuuh | https://github.com/Samuuuh |
 | Karan|  https://github.com/Ye8i|
 | Arn |  https://github.com/arn355 |
+| Skul1CrowN | https://github.com/Skul1CrowN |
