@@ -15,7 +15,7 @@
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Oh My Zsh        | Misc                | https://github.com/ohmyzsh/ohmyzsh          | Framework for zsh terminal customization.                                                                                                      |
 | CyberChef        | Misc                | https://gchq.github.io/CyberChef/           | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ...                 |
-
+| PayloadAllThings | Misc                | https://github.com/swisskyrepo/PayloadsAllTheThings | An essential github repo that is filled with payloads and web bypasses.
 <br>
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
