@@ -8,4 +8,4 @@
 | gdb | Reversing | https://www.sourceware.org/gdb/ | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory. |
 |Nmap| Network | https://nmap.org/ | utility for network discovery and security auditing. |
 | Metasploit | Penetration | https://www.metasploit.com/ | Very powerful penetration testing framework |
-
+|Z3 Solver | Reverse Engineering | https://github.com/Z3Prover/z3 | SAT Solver for automating finding value with multiple constraint checks |
