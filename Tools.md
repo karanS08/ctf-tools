@@ -4,6 +4,7 @@
 | Sqlmap           | Web                 | https://sqlmap.org/                         | automates the process of detecting and exploiting SQL injection                                                                                |
 | HackBrowserData  | Web                 | https://github.com/moonD4rk/HackBrowserData | Tools that could help us decrypt data like password, bookmark, history from the browser.                                                       |
 | Postman          | Web                 | https://www.postman.com/                    | Tool for testing API calls and stubing the data to APIs to mock the calls                                                                      |
+| burp suite       | Web                 | https://portswigger.net/burp/communitydownload |It is tool for performing security testing of web applications.
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
