@@ -7,3 +7,4 @@
 | gdb | Reversing | https://www.sourceware.org/gdb/ | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory. |
 |Nmap| Network | https://nmap.org/ | utility for network discovery and security auditing. |
 | Metasploit | Penetration | https://www.metasploit.com/ | Very powerful penetration testing framework |
+| HackBrowserData | Web | https://github.com/moonD4rk/HackBrowserData | Tools that could help us decrypt data like password, bookmark, history from the browser.
