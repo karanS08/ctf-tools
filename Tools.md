@@ -11,11 +11,6 @@
 | Metasploit | Penetration | https://www.metasploit.com/ | Very powerful penetration testing framework |
 | HackBrowserData | Web | https://github.com/moonD4rk/HackBrowserData | Tools that could help us decrypt data like password, bookmark, history from the browser.
 |Z3 Solver | Reverse Engineering | https://github.com/Z3Prover/z3 | SAT Solver for automating finding value with multiple constraint checks |
-
-| Postman      | Web       | https://www.postman.com/                | Tool for testing API calls and stubing the data to APIs to mock the calls                                       |
-| Exiftool | Forensics | https://github.com/exiftool | Tool for looking into meta data and other useful information related to a particular image file | 
-
-=======
 | Spiderfoot | OSINT | https://www.spiderfoot.net/ | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address. |
 | Postman      | Web       | https://www.postman.com/                | Tool for testing API calls and stubing the data to APIs to mock the calls|
-
+| Exiftool | Forensics | https://github.com/exiftool | Tool for looking into meta data and other useful information related to a particular image file | 
