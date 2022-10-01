@@ -4,3 +4,4 @@
 | Dirsearch    | Web       | https://github.com/maurosoria/dirsearch | Tool for scanning a website path.                                               |
 | Oh My Zsh    | Terminal  | https://github.com/ohmyzsh/ohmyzsh      | Framework for zsh terminal customization.                                       |
 | IDA | Reversing | https://hex-rays.com/ida-pro/ | Tool for disassembling a binary file and also a versatile debugger |
+| gdb | Reversing | https://www.sourceware.org/gdb/ | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory. |
