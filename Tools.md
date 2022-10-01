@@ -21,7 +21,8 @@
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.                               |
-
+| Geogramint       | OSINT               | https://github.com/Alb-310/Geogramint       | An OSINT Geolocalization tool for Telegram that find nearby users and groups
+| geocreepy        | OSINT               | http://geocreepy.com                        | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
 <br>
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
