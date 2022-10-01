@@ -7,3 +7,5 @@
 | gdb | Reversing | https://www.sourceware.org/gdb/ | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory. |
 |Nmap| Network | https://nmap.org/ | utility for network discovery and security auditing. |
 |Sqlmap| Web | https://sqlmap.org/ | automates the process of detecting and exploiting SQL injection |
+| Metasploit | Penetration | https://www.metasploit.com/ | Very powerful penetration testing framework |
+
