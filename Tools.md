@@ -15,6 +15,7 @@
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Oh My Zsh        | Misc                | https://github.com/ohmyzsh/ohmyzsh          | Framework for zsh terminal customization.                                                                                                      |
 | CyberChef        | Misc                | https://gchq.github.io/CyberChef/           | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ...                 |
+| Aperisolve | Misc | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
 
 <br>
 
