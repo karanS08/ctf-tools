@@ -6,7 +6,7 @@
 | Postman          | Web                 | https://www.postman.com/                    | Tool for testing API calls and stubing the data to APIs to mock the calls    |
 | Feroxbuster      | Web                 | https://github.com/epi052/feroxbuster       |A simple, fast, recursive content discovery tool written in Rust            |
 | burp suite       | Web                 | https://portswigger.net/burp/communitydownload |It is tool for performing security testing of web applications.|
-
+| mitmproxy        | Web                 | https://mitmproxy.org                       | Mitmproxy is a free and open source interactive HTTPS proxy. |
 
 <br>
 
