@@ -7,7 +7,8 @@
 | Feroxbuster      | Web                 | https://github.com/epi052/feroxbuster       |A simple, fast, recursive content discovery tool written in Rust            |
 | burp suite       | Web                 | https://portswigger.net/burp/communitydownload |It is tool for performing security testing of web applications.|
 | mitmproxy        | Web                 | https://mitmproxy.org                       | Mitmproxy is a free and open source interactive HTTPS proxy. |
-
+|ViewDns           |Web                  |https://viewdns.info                         |ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
+|OWASP ZAP         |Web                  |https://www.zaproxy.org/                     | OWASP Zed Attact Proxy (ZAP) used for spidering website/passive scanning of website. It contain scanner,proxy and many other features.| 
 <br>
 
 
