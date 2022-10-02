@@ -52,7 +52,7 @@ Steps for adding your name in the CONTRIBUTERS.md File
     1. Fork this repo
     2. Edit `Tools.md` file 
     3. Add Name of tool , link to the tool , a short  explanation of your favorite tool in the table .
-    4. Edit `CONTRIBUTERS.md` file
+    4. Edit `CONTRIBUTORS.md` file
     5. Add your Name also link your github profile seprated by a | (pipe).
         eg. | Karan | https://github.com/karanS08 | 
     6. Make your pull request 🙌🏽.
@@ -66,9 +66,9 @@ Steps for adding your name in the CONTRIBUTERS.md File
 ```py
 '''
 always make more then 4 pull request
-lets you have made only 4 pull request to different projects
-but one project is excluded from hackoctoberfest event then your pull request will not be count and 
-then you have remains 3 valid pull request if these projects is not excluded.
+lets say you have made only 4 pull request to different projects
+but if one project is excluded from hackoctoberfest event then your pull request will not be counted and 
+then you have only 3 remaining valid pull request if these projects are not excluded.
 if you fail to make 4 pull request then you can't get swags or t-shirts.
 
 '''
