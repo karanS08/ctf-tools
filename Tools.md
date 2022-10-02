@@ -21,7 +21,6 @@
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
-
 | Holehe           | OSINT               | https://github.com/megadose/holehe					     | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others|
 
 <br>
