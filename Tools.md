@@ -67,6 +67,7 @@
 | ------------    | -------- | ----------------------------------------    | ------------------------------------------------------------ |
 | RsaCtfTool      | Crypto   | https://github.com/RsaCtfTool/RsaCtfTool    | RSA multi attacks tool : uncipher data from weak public key. |
 | CTF-CryptTool   | Crypto   | https://github.com/karma9874/CTF-CryptoTool | Works for the cipher which does not have a key.              |
+| Hash-Extender   | Crypto   | https://github.com/iagox86/hash_extender | Tool for performing hash length extension attacks              |
 
 
 <br>
