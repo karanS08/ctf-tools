@@ -29,6 +29,7 @@
 | Akshat Kushwaha | https://github.com/Akshat-02 |
 | Madhav Saini       | https://github.com/FireNdIce3 |
 | mind8hunter | https://github.com/mind8hunter |
+| Astra       | https://github.com/Astra5155j  |
 | Som Chandra | https://github.com/Somchandra17 |
 | aph | https://github.com/aphkyle/ |
 | Dhiraj Gilda | https://github.com/DhirajGilda |
