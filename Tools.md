@@ -70,6 +70,9 @@
 | RsaCtfTool      | Crypto   | https://github.com/RsaCtfTool/RsaCtfTool    | RSA multi attacks tool : uncipher data from weak public key. |
 | CTF-CryptTool   | Crypto   | https://github.com/karma9874/CTF-CryptoTool | Works for the cipher which does not have a key.              |
 | Hash-Extender   | Crypto   | https://github.com/iagox86/hash_extender | Tool for performing hash length extension attacks              |
+| Featherduster   | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                    |
+| Hashkill        | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                              |
+| Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
 
 
 <br>
