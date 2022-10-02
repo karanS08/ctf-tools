@@ -35,7 +35,7 @@
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
-|ReconDog|OSINT|https://github.com/s0md3v/ReconDog|An OSINT tool which uses api to collect all data , no direct contact with user is made.|
+| ReconDog | OSINT|https://github.com/s0md3v/ReconDog|An OSINT tool which uses api to collect all data , no direct contact with user is made.|
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
 | Holehe           | OSINT               | https://github.com/megadose/holehe					     | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others|
 | Epieos           | OSINT               | https://epieos.com/                         | Retrieve information linked to an email address, without notifying its user  |
@@ -46,7 +46,6 @@
 | Sherlock           | OSINT               | https://github.com/sherlock-project/sherlock                         | Hunt down social media accounts by username across social networks |
 | Hunter.io           | OSINT               | https://hunter.io/                         | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business. |
 | InstantUsername   | OSINT              | https://instantusername.com/#/              | Tool to search for a given username in all social media | 
-
 
 <br>
 
@@ -60,6 +59,7 @@
 | DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
 | Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
 | Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
+
 <br>
 
 
@@ -100,3 +100,4 @@
 | ScyllaHide           | Reverse Engineering | https://github.com/x64dbg/ScyllaHide | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.     |
 | WinHex | Reverse Engineering | https://x-ways.net/winhex/ | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
 | Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
+| ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
