@@ -18,8 +18,8 @@
 | Dirbuster       | Web      | https://www.kali.org/tools/dirbuster/           | DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers. |
 | Subbrute        | Web      | https://github.com/TheRook/subbrute             | A DNS meta-query spider that enumerates DNS records, and subdomains. |
 | Webgrep         | Web      | https://github.com/dhondta/webgrep              | grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
-
-
+| Cookie-editor   | Web      | https://github.com/Moustachauve/cookie-editor   | Browser extension to create, edit and delete cookies for the current tab.     |
+| Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer        | Browser extension which identifies technologies on websites |
 <br>
 
 | Name of tool  | Category | Link to the tool                              | Short Description                                                                                                              |
@@ -71,7 +71,7 @@
 | metasploit   | pwn      | https://www.metasploit.com/             | Very powerful penetration testing framework          |
 | Nmap         | pwn      | https://nmap.org/                       | utility for network discovery and security auditing. |
 | Wireshark    | pwn      | https://wireshark.org/                  | Network protocol analyzer tool                       |
-
+| Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS  | Shows the ways to escalate privileges on Linux |
 
 <br>
 
@@ -85,7 +85,7 @@
 | Hashkill        | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                              |
 | Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
 | Factordb        | Crypto   | http://factordb.com/                        | Automated Integer Factorization. |
-| Cointracking    | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.  |
+| Cointracking    | Crypto   | https://cryptomaniaks.com/                | Allows you to import all of your historical transaction data manually or via API.  |
 
 <br>
 
