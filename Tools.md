@@ -1,5 +1,6 @@
 | Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
+
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
 | HackBrowserData | Web      | https://github.com/moonD4rk/HackBrowserData    | Tools that could help us decrypt data like password, bookmark, history from the browser. |
@@ -35,6 +36,7 @@
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
+|ReconDog|OSINT|https://github.com/s0md3v/ReconDog|An OSINT tool which uses api to collect all data , no direct contact with user is made.|
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
 | Holehe           | OSINT               | https://github.com/megadose/holehe					     | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others|
 | Epieos           | OSINT               | https://epieos.com/                         | Retrieve information linked to an email address, without notifying its user  |
