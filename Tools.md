@@ -23,6 +23,7 @@
 | Oh My Zsh     | Misc     | https://github.com/ohmyzsh/ohmyzsh            | Framework for zsh terminal customization.                                                                                      |
 | CyberChef     | Misc     | https://gchq.github.io/CyberChef/             | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ... |
 | Hash-Identify | Misc     | https://github.com/blackploit/hash-identifier | Software to identify the different types of hashes used to encrypt data and especially passwords.                              |
+| dCode | Misc | https://www.dcode.fr/tools-list | A online tool for identifying and decoding various ciphers |
 
 <br>
 
@@ -46,7 +47,7 @@
 | Exiftool     | Forensics | https://github.com/exiftool           | Tool for looking into meta data and other useful information related to a particular image file |
 | Binwalk      | Forensics | https://github.com/ReFirmLabs/binwalk | Tool for searching a given binary image for embedded files and executable code.                 |
 | Forensically | Forensics  | https://29a.ch/photo-forensics/#forensic-magnifier | Forensically is a set of free tools for digital image forensics.                  |
-
+| Aperisolve | Forensics | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
 <br>
 
 
