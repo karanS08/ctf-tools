@@ -16,6 +16,7 @@
 |GrayHatWarfare    |Web      |https://buckets.grayhatwarfare.com/             |Website used to look for publicly exposed s3 buckets of AWS servers|
 | Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
 | Dirbuster       | Web      |https://www.kali.org/tools/dirbuster/           |DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|
+| CodePen    | Web      | https://codepen.io/                      | CodePen is an online tool that has the functionalities for designing and sharing front end development. You can use it to build projects as it provides all the features of IDE in the browser.     |
 
 
 <br>
