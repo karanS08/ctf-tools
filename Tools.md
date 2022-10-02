@@ -56,7 +56,9 @@
 | Binwalk      | Forensics | https://github.com/ReFirmLabs/binwalk | Tool for searching a given binary image for embedded files and executable code.                 |
 | Forensically | Forensics  | https://29a.ch/photo-forensics/#forensic-magnifier | Forensically is a set of free tools for digital image forensics.                  |
 | Aperisolve | Forensics | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
-| DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics | 
+| DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
+| Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
+| Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
 <br>
 
 
