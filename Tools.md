@@ -1,13 +1,14 @@
 | Name of tool     | Category            | Link to the tool                            | Short Discription                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Dirsearch        | Web                 | https://github.com/maurosoria/dirsearch     | Tool for scanning a website path.                                                                                                              |
+
 | Sqlmap           | Web                 | https://sqlmap.org/                         | automates the process of detecting and exploiting SQL injection                                                                                |
 | HackBrowserData  | Web                 | https://github.com/moonD4rk/HackBrowserData | Tools that could help us decrypt data like password, bookmark, history from the browser.                                                       |
 | Postman          | Web                 | https://www.postman.com/                    | Tool for testing API calls and stubing the data to APIs to mock the calls    |
 | Feroxbuster      | Web                 | https://github.com/epi052/feroxbuster       |A simple, fast, recursive content discovery tool written in Rust            |
 | burp suite       | Web                 | https://portswigger.net/burp/communitydownload |It is tool for performing security testing of web applications.|
 | mitmproxy        | Web                 | https://mitmproxy.org                       | Mitmproxy is a free and open source interactive HTTPS proxy. |
-
+| EditThisCookie   | Web                 | https://www.editthiscookie.com/             | EditThisCookie is the only cookie editor you will ever need! |
 <br>
 
 
