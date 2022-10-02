@@ -16,6 +16,8 @@
 |GrayHatWarfare    |Web      |https://buckets.grayhatwarfare.com/             |Website used to look for publicly exposed s3 buckets of AWS servers|
 | Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
 | Dirbuster       | Web      |https://www.kali.org/tools/dirbuster/           |DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|
+| Subbrute        | Web      |https://github.com/TheRook/subbrute             |A DNS meta-query spider that enumerates DNS records, and subdomains. |
+| Webgrep         | Web      |https://github.com/dhondta/webgrep              |grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
 
 
 <br>
@@ -70,6 +72,9 @@
 | RsaCtfTool      | Crypto   | https://github.com/RsaCtfTool/RsaCtfTool    | RSA multi attacks tool : uncipher data from weak public key. |
 | CTF-CryptTool   | Crypto   | https://github.com/karma9874/CTF-CryptoTool | Works for the cipher which does not have a key.              |
 | Hash-Extender   | Crypto   | https://github.com/iagox86/hash_extender | Tool for performing hash length extension attacks              |
+| Featherduster   | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                    |
+| Hashkill        | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                              |
+| Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
 
 
 <br>
