@@ -80,4 +80,5 @@
 | gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
 | Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
 | Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA      |
+| ScyllaHide           | Reverse Engineering | https://github.com/x64dbg/ScyllaHide | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.     |
 
