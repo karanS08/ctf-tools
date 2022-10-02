@@ -18,6 +18,7 @@
 | vivek gorasiya     | https://github.com/vivek0033    |
 | rdmchr             | https://github.com/rdmchr       |
 | Sooki              | https://github.com/0xSooki      |
+| Exit-Guy           | https://github.com/exithere     |
 | Poomipat-Ch        | https://github.com/Poomipat-Ch  |
 | Amdjedbens | https://github.com/amdjedbens |
 | nga1hte | https://github.com/nga1hte |
