@@ -14,14 +14,18 @@
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Oh My Zsh        | Misc                | https://github.com/ohmyzsh/ohmyzsh          | Framework for zsh terminal customization.                                                                                                      |
-| CyberChef        | Misc                | https://gchq.github.io/CyberChef/           | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ...                 |
+| CyberChef        | Misc                | https://gchq.github.io/CyberChef/           | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ...                |
 
 <br>
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
-| Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.                               |
+| Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
 
+| Holeh            | OSINT               | https://github.com/megadose/holehe          | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.                       |
+
+| Toutatis         | OSINT               | https://github.com/megadose/toutatis        | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more                 |
+ 
 <br>
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
