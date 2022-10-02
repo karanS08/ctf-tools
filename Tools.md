@@ -1,24 +1,23 @@
 | Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
-
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
 | HackBrowserData | Web      | https://github.com/moonD4rk/HackBrowserData    | Tools that could help us decrypt data like password, bookmark, history from the browser. |
 | Postman         | Web      | https://www.postman.com/                       | Tool for testing API calls and stubing the data to APIs to mock the calls                |
 | Feroxbuster     | Web      | https://github.com/epi052/feroxbuster          | A simple, fast, recursive content discovery tool written in Rust                         |
 | burp suite      | Web      | https://portswigger.net/burp/communitydownload | It is tool for performing security testing of web applications.                          |
-| mitmproxy       | Web      | https://mitmproxy.org                          | Mitmproxy is a free and open source interactive HTTPS proxy.                            |
-| Crackstation    | Web      | https://crackstation.net/                      | CrackStation is a massive pre-computed lookup tables to crack password hashes.     |
-| DNSDumpster     | Web      | https://dnsdumpster.com/                       | DNSdumpster is a FREE domain research tool that can discover hosts related to a domain.
-| EditThisCookie  | Web      | https://editthiscookie.com/                    | Cookie viewer and editor |
-| OWASP-ZAP       | Web      | https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project | Owasp-zap tool is used to scan web application. 
-|ViewDns           |Web      |https://viewdns.info                            |ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
-|OWASP ZAP         |Web      |https://www.zaproxy.org/                        | OWASP Zed Attact Proxy (ZAP) used for spidering website/passive scanning of website. It contain scanner,proxy and many other features.| 
-|GrayHatWarfare    |Web      |https://buckets.grayhatwarfare.com/             |Website used to look for publicly exposed s3 buckets of AWS servers|
-| Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
-| Dirbuster       | Web      |https://www.kali.org/tools/dirbuster/           |DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|
-| Subbrute        | Web      |https://github.com/TheRook/subbrute             |A DNS meta-query spider that enumerates DNS records, and subdomains. |
-| Webgrep         | Web      |https://github.com/dhondta/webgrep              |grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
+| mitmproxy       | Web      | https://mitmproxy.org                          | Mitmproxy is a free and open source interactive HTTPS proxy.                             |
+| Crackstation    | Web      | https://crackstation.net/                      | CrackStation is a massive pre-computed lookup tables to crack password hashes.           |
+| DNSDumpster     | Web      | https://dnsdumpster.com/                       | DNSdumpster is a FREE domain research tool that can discover hosts related to a domain.  |
+| EditThisCookie  | Web      | https://editthiscookie.com/                    | Cookie viewer and editor                                                                 |
+| OWASP-ZAP       | Web      | https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project | Owasp-zap tool is used to scan web application.                          |
+| ViewDns         | Web      | https://viewdns.info                            | ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc |
+| OWASP ZAP       | Web      | https://www.zaproxy.org/                        | OWASP Zed Attact Proxy (ZAP) used for spidering website/passive scanning of website. It contain scanner,proxy and many other features. | 
+| GrayHatWarfare  | Web      | https://buckets.grayhatwarfare.com/             | Website used to look for publicly exposed s3 buckets of AWS servers                       |
+| Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates. |
+| Dirbuster       | Web      | https://www.kali.org/tools/dirbuster/           | DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers. |
+| Subbrute        | Web      | https://github.com/TheRook/subbrute             | A DNS meta-query spider that enumerates DNS records, and subdomains. |
+| Webgrep         | Web      | https://github.com/dhondta/webgrep              | grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
 
 
 <br>
@@ -36,7 +35,7 @@
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
-|ReconDog|OSINT|https://github.com/s0md3v/ReconDog|An OSINT tool which uses api to collect all data , no direct contact with user is made.|
+| ReconDog | OSINT|https://github.com/s0md3v/ReconDog|An OSINT tool which uses api to collect all data , no direct contact with user is made.|
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
 | Holehe           | OSINT               | https://github.com/megadose/holehe					     | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others|
 | Epieos           | OSINT               | https://epieos.com/                         | Retrieve information linked to an email address, without notifying its user  |
@@ -47,7 +46,6 @@
 | Sherlock           | OSINT               | https://github.com/sherlock-project/sherlock                         | Hunt down social media accounts by username across social networks |
 | Hunter.io           | OSINT               | https://hunter.io/                         | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business. |
 | InstantUsername   | OSINT              | https://instantusername.com/#/              | Tool to search for a given username in all social media | 
-
 
 <br>
 
@@ -61,6 +59,7 @@
 | DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
 | Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
 | Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
+
 <br>
 
 
@@ -101,3 +100,4 @@
 | ScyllaHide           | Reverse Engineering | https://github.com/x64dbg/ScyllaHide | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.     |
 | WinHex | Reverse Engineering | https://x-ways.net/winhex/ | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
 | Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
+| ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
