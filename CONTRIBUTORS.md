@@ -18,3 +18,4 @@
 | vivek gorasiya | https://github.com/vivek0033 |
 | rdmchr | https://github.com/rdmchr |
 | Sooki | https://github.com/0xSooki |
+| mind8hunter | https://github.com/mind8hunter |
