@@ -44,6 +44,7 @@
 | ViewDns           | OSINT               | https://viewdns.info                         | ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
 | Sherlock           | OSINT               | https://github.com/sherlock-project/sherlock                         | Hunt down social media accounts by username across social networks |
 | Hunter.io           | OSINT               | https://hunter.io/                         | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business. |
+| InstantUsername   | OSINT              | https://instantusername.com/#/              | Tool to search for a given username in all social media | 
 
 
 <br>
@@ -55,6 +56,7 @@
 | Binwalk      | Forensics | https://github.com/ReFirmLabs/binwalk | Tool for searching a given binary image for embedded files and executable code.                 |
 | Forensically | Forensics  | https://29a.ch/photo-forensics/#forensic-magnifier | Forensically is a set of free tools for digital image forensics.                  |
 | Aperisolve | Forensics | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
+| DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics | 
 <br>
 
 
@@ -78,6 +80,7 @@
 | Featherduster   | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                    |
 | Hashkill        | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                              |
 | Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
+| Factordb        | Crypto   | http://factordb.com/ | Automated Integer Factorization. |
 
 
 <br>
