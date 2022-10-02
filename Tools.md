@@ -16,6 +16,8 @@
 |GrayHatWarfare    |Web      |https://buckets.grayhatwarfare.com/             |Website used to look for publicly exposed s3 buckets of AWS servers|
 | Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
 | Dirbuster       | Web      |https://www.kali.org/tools/dirbuster/           |DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|
+| Subbrute        | Web      |https://github.com/TheRook/subbrute             |A DNS meta-query spider that enumerates DNS records, and subdomains. |
+| Webgrep         | Web      |https://github.com/dhondta/webgrep              |grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
 
 
 <br>
