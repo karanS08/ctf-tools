@@ -46,6 +46,7 @@
 | Sherlock           | OSINT               | https://github.com/sherlock-project/sherlock                         | Hunt down social media accounts by username across social networks |
 | Hunter.io           | OSINT               | https://hunter.io/                         | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business. |
 | InstantUsername   | OSINT              | https://instantusername.com/#/              | Tool to search for a given username in all social media | 
+| Twint   | OSINT              | https://github.com/twintproject/twint             | A Python Tool to scrape twitter data without API limitations | 
 
 <br>
 
