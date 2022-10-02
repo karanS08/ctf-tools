@@ -14,7 +14,7 @@
 |ViewDns           |Web      |https://viewdns.info                            |ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
 |OWASP ZAP         |Web      |https://www.zaproxy.org/                        | OWASP Zed Attact Proxy (ZAP) used for spidering website/passive scanning of website. It contain scanner,proxy and many other features.| 
 |GrayHatWarfare    |Web      |https://buckets.grayhatwarfare.com/             |Website used to look for publicly exposed s3 buckets of AWS servers|
-| Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
+
 
 <br>
 
@@ -37,6 +37,8 @@
 | Geogramint       | OSINT               | https://github.com/Alb-310/Geogramint       | An OSINT Geolocalization tool for Telegram that find nearby users and groups
 | geocreepy        | OSINT               | http://geocreepy.com                        | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
 |ViewDns           | OSINT               |https://viewdns.info                         |ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
+|Sherlock           | OSINT               |https://github.com/sherlock-project/sherlock                         |Hunt down social media accounts by username across social networks |
+|hunter.io           | OSINT               |https://hunter.io/                         |hunter.io lets you find professional email addresses in seconds and connect with the people that matter for your business. |
 
 
 <br>
