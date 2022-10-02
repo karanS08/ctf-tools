@@ -31,6 +31,7 @@
 
 <br>
 
+
 | Name of tool | Category | Link to the tool                        | Short Description                                    |
 | ------------ | -------- | --------------------------------------- | ---------------------------------------------------- |
 | one_gadget   | pwn      | https://github.com/david942j/one_gadget | Tool for finding ROP-tools in libc6.so.6             |
@@ -39,11 +40,26 @@
 | Nmap         | pwn      | https://nmap.org/                       | utility for network discovery and security auditing. |
 | Wireshark    | pwn      | https://wireshark.org/                  | Network protocol analyzer tool                       |
 
+
 <br>
 
-| Name of tool | Category            | Link to the tool                   | Short Description                                                                                               |
-| ------------ | ------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Z3 Solver    | Reverse Engineering | https://github.com/Z3Prover/z3     | SAT Solver for automating finding value with multiple constraint checks                                         |
-| cutter       | Reverse Engineering | https://github.com/rizinorg/cutter | Reverse Engineering platform (disassembler)                                                                     |
-| IDA          | Reverse Engineering | https://hex-rays.com/ida-pro/      | Tool for disassembling a binary file and also a versatile debugger                                              |
-| gdb          | Reverse Engineering | https://www.sourceware.org/gdb/    | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory. |
+
+| Name of tool | Category | Link to the tool                         | Short Description                                            |
+| ------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
+| RsaCtfTool   | Crypto   | https://github.com/RsaCtfTool/RsaCtfTool | RSA multi attacks tool : uncipher data from weak public key. |
+
+
+<br>
+
+
+| Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
+|--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
+| Z3 Solver        | Reverse Engineering | https://github.com/Z3Prover/z3              | SAT Solver for automating finding value with multiple constraint checks                                                                        |
+| cutter           | Reverse Engineering | https://github.com/rizinorg/cutter          | Reverse Engineering platform (disassembler)                                                                                                    |
+| IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/               | Tool for disassembling a binary file and also a versatile debugger                                                                             |
+| gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
+| Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
+
+
+
+
