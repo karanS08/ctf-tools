@@ -84,8 +84,8 @@
 | Featherduster   | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                    |
 | Hashkill        | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                              |
 | Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
-| Factordb        | Crypto   | http://factordb.com/ | Automated Integer Factorization. |
-
+| Factordb        | Crypto   | http://factordb.com/                        | Automated Integer Factorization. |
+| Cointracking    | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.  |
 
 <br>
 
