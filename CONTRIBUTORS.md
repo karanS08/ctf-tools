@@ -35,3 +35,4 @@
 | komen205             | https://github.com/komen205       |
 | Tejas             | https://github.com/MrTejas       |
 | Mukund            | https://github.com/Mukund32      |
+| Haidar Rifki | https://github.com/haidarrifki |
