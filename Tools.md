@@ -79,5 +79,5 @@
 | IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/               | Tool for disassembling a binary file and also a versatile debugger                                                                             |
 | gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
 | Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
-| Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA     |
+| Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA      |
 

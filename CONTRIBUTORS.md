@@ -20,14 +20,14 @@
 | Sooki              | https://github.com/0xSooki      |
 | Exit-Guy           | https://github.com/exithere     |
 | Poomipat-Ch        | https://github.com/Poomipat-Ch  |
-| Amdjedbens | https://github.com/amdjedbens |
-| nga1hte | https://github.com/nga1hte |
-| Mohd Shahil | https://github.com/Shahil2002 |
-| Soumik Seal | https://github.com/Soumik8114 |
-| Akshat Kushwaha | https://github.com/Akshat-02 |
-| Madhav Saini       | https://github.com/FireNdIce3 |
-| mind8hunter | https://github.com/mind8hunter |
-| Som Chandra | https://github.com/Somchandra17 |
-| aph | https://github.com/aphkyle/ |
-| Dhiraj Gilda | https://github.com/DhirajGilda |
-|Muhammad Ahsan Siddiqui| https://github.com/ahsansiddiqui2|
+| Amdjedbens         | https://github.com/amdjedbens   |
+| nga1hte            | https://github.com/nga1hte      |
+| Mohd Shahil        | https://github.com/Shahil2002   |
+| Soumik Seal        | https://github.com/Soumik8114   |
+| Akshat Kushwaha    | https://github.com/Akshat-02    |
+| Madhav Saini       | https://github.com/FireNdIce3   |
+| mind8hunter        | https://github.com/mind8hunter  |
+| Som Chandra        | https://github.com/Somchandra17 |
+| aph                | https://github.com/aphkyle/     |
+| Dhiraj Gilda       | https://github.com/DhirajGilda  |
+| Muhammad Ahsan Siddiqui| https://github.com/ahsansiddiqui2|
