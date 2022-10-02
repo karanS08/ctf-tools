@@ -8,7 +8,12 @@
 | burp suite      | Web      | https://portswigger.net/burp/communitydownload | It is tool for performing security testing of web applications.                          |
 | mitmproxy       | Web      | https://mitmproxy.org                          | Mitmproxy is a free and open source interactive HTTPS proxy.                            |
 | Crackstation    | Web      | https://crackstation.net/                      | CrackStation is a massive pre-computed lookup tables to crack password hashes.     |
-| DNSDumpster     | Web      | https://dnsdumpster.com/                       | DNSdumpster is a FREE domain research tool that can discover hosts related to a domain.
+| DNSDumpster     | Web      | https://dnsdumpster.com/                       | DNSdumpster is a FREE domain research tool that can discover 
+| OWASP-ZAP       | Web      | https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project | Owasp-zap tool is used to scan web application. 
+
+hosts related to a domain.
+
+
 
 
 <br>
