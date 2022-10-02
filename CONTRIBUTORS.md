@@ -38,4 +38,5 @@
 | Vikas Anand            | https://github.com/kingcoolvikas      |
 | Haidar Rifki | https://github.com/haidarrifki |
 | Biswajit          | https://github.com/BiswajitSahoo-tech |
+| Bourbxn          | https://github.com/Bourbxn |
 | Abhishek Kumar Roy | https://github.com/Adi-Abhishek |
