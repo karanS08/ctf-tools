@@ -15,6 +15,8 @@
 |OWASP ZAP         |Web      |https://www.zaproxy.org/                        | OWASP Zed Attact Proxy (ZAP) used for spidering website/passive scanning of website. It contain scanner,proxy and many other features.| 
 |GrayHatWarfare    |Web      |https://buckets.grayhatwarfare.com/             |Website used to look for publicly exposed s3 buckets of AWS servers|
 | Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
+| Shodan         | Web      | https://www.shodan.io/                            | Shodan is a search engine that lets users search for various types of servers connected to the internet using a variety of filters.   |
+| Wappalyzer         | Web      | https://www.wappalyzer.com/                            | The Wappalyzer APIs provide instant access to website technology stacks, company and contact details, social media profiles, email verification and more.   |
 
 <br>
 
