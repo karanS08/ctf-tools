@@ -21,11 +21,17 @@
 
 <br>
 
+
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
 | Holehe           | OSINT               | https://github.com/megadose/holehe					     | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others|
 | Epieos           | OSINT               | https://epieos.com/                         | Retrieve information linked to an email address, without notifying its user  |
+| Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.                               |
+| Geogramint       | OSINT               | https://github.com/Alb-310/Geogramint       | An OSINT Geolocalization tool for Telegram that find nearby users and groups
+| geocreepy        | OSINT               | http://geocreepy.com                        | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
+
+
 <br>
 
 
@@ -50,9 +56,10 @@
 <br>
 
 
-| Name of tool | Category | Link to the tool                         | Short Description                                            |
-| ------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
-| RsaCtfTool   | Crypto   | https://github.com/RsaCtfTool/RsaCtfTool | RSA multi attacks tool : uncipher data from weak public key. |
+| Name of tool    | Category | Link to the tool                            | Short Description                                            |
+| ------------    | -------- | ----------------------------------------    | ------------------------------------------------------------ |
+| RsaCtfTool      | Crypto   | https://github.com/RsaCtfTool/RsaCtfTool    | RSA multi attacks tool : uncipher data from weak public key. |
+| CTF-CryptTool   | Crypto   | https://github.com/karma9874/CTF-CryptoTool | Works for the cipher which does not have a key.              |
 
 
 <br>
@@ -65,7 +72,4 @@
 | IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/               | Tool for disassembling a binary file and also a versatile debugger                                                                             |
 | gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
 | Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
-
-
-
 
