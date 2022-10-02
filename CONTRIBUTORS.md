@@ -32,3 +32,4 @@
 | Dhiraj Gilda | https://github.com/DhirajGilda |
 |Muhammad Ahsan Siddiqui| https://github.com/ahsansiddiqui2|
 | Z3RO_O             | https://github.com/Z3RO-O       |
+| Vikas Anand             | https://github.com/kingcoolvikas      |
