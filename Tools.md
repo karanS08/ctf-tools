@@ -30,7 +30,7 @@
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.                               |
 | Geogramint       | OSINT               | https://github.com/Alb-310/Geogramint       | An OSINT Geolocalization tool for Telegram that find nearby users and groups
 | geocreepy        | OSINT               | http://geocreepy.com                        | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
-
+| Infoooze         | OSINT               | https://github.com/devXprite/infoooze       |Infoooze is an OSINT tool. It helps you to quickly find information effectively. All you need is to input and it will take take care of rest.|
 
 <br>
 
