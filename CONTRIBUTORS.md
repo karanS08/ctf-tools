@@ -24,3 +24,4 @@
 | nga1hte | https://github.com/nga1hte |
 | Mohd Shahil | https://github.com/Shahil2002 |
 | Soumik Seal | https://github.com/Soumik8114 |
+| Akshat Kushwaha | https://github.com/Akshat-02 |
