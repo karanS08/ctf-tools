@@ -25,3 +25,4 @@
 | Mohd Shahil | https://github.com/Shahil2002 |
 | Soumik Seal | https://github.com/Soumik8114 |
 | Madhav Saini       | https://github.com/FireNdIce3 |
+| mind8hunter | https://github.com/mind8hunter |
