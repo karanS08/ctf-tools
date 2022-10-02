@@ -39,6 +39,7 @@
 | Geogramint       | OSINT               | https://github.com/Alb-310/Geogramint       | An OSINT Geolocalization tool for Telegram that find nearby users and groups
 | geocreepy        | OSINT               | http://geocreepy.com                        | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
 |ViewDns           | OSINT               |https://viewdns.info                         |ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
+|Suncalc           | OSINT               | suncalc.net                                 | SunCalc is a little app that shows sun movement and sunlight phases during the given day at the given location. Useful for geolocation thorough Images.
 
 
 <br>
