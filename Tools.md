@@ -18,16 +18,19 @@
 
 <br>
 
-| Name of tool | Category | Link to the tool            | Short Description                                                                                                |
-| ------------ | -------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Spiderfoot   | OSINT    | https://www.spiderfoot.net/ | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address. |
+| Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
+|--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
+| Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.      |
+| Holehe           | OSINT               | https://github.com/megadose/holehe					     | Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others|
 
 <br>
+
 
 | Name of tool | Category  | Link to the tool                      | Short Description                                                                               |
 | ------------ | --------- | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Exiftool     | Forensics | https://github.com/exiftool           | Tool for looking into meta data and other useful information related to a particular image file |
 | Binwalk      | Forensics | https://github.com/ReFirmLabs/binwalk | Tool for searching a given binary image for embedded files and executable code.                 |
+
 
 <br>
 

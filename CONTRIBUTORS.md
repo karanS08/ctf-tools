@@ -23,3 +23,4 @@
 | Amdjedbens | https://github.com/amdjedbens |
 | nga1hte | https://github.com/nga1hte |
 | Mohd Shahil | https://github.com/Shahil2002 |
+| Soumik Seal | https://github.com/Soumik8114 |
