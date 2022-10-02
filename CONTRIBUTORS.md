@@ -35,6 +35,7 @@
 | komen205             | https://github.com/komen205       |
 | Tejas             | https://github.com/MrTejas       |
 | Mukund            | https://github.com/Mukund32      |
+| Vikas Anand            | https://github.com/kingcoolvikas      |
 | Haidar Rifki | https://github.com/haidarrifki |
 | Biswajit          | https://github.com/BiswajitSahoo-tech |
 
