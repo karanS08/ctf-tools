@@ -38,7 +38,9 @@
 | Spiderfoot       | OSINT               | https://www.spiderfoot.net/                 | Spiderfoot is automating the process of gathering intelligence about a given target, which may be an IP address.                               |
 | Geogramint       | OSINT               | https://github.com/Alb-310/Geogramint       | An OSINT Geolocalization tool for Telegram that find nearby users and groups
 | geocreepy        | OSINT               | http://geocreepy.com                        | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
-|ViewDns           | OSINT               |https://viewdns.info                         |ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
+| ViewDns           | OSINT               | https://viewdns.info                         | ViewDNS is used to search for Domain/IP address info and can reverse search about the IP address of the website. Many of the tools are included in it as: Reverse IP Lookup,IP Whois,etc|
+| Sherlock           | OSINT               | https://github.com/sherlock-project/sherlock                         | Hunt down social media accounts by username across social networks |
+| Hunter.io           | OSINT               | https://hunter.io/                         | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business. |
 
 
 <br>
