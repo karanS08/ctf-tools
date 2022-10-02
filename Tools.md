@@ -9,6 +9,7 @@
 | mitmproxy       | Web      | https://mitmproxy.org                          | Mitmproxy is a free and open source interactive HTTPS proxy.                            |
 | Crackstation    | Web      | https://crackstation.net/                      | CrackStation is a massive pre-computed lookup tables to crack password hashes.     |
 | DNSDumpster     | Web      | https://dnsdumpster.com/                       | DNSdumpster is a FREE domain research tool that can discover hosts related to a domain.
+| Urlscan         | Web      | https://urlscan.io/                            | urlscan.io is a free service to scan and analyse websites. It record the activity that this page navigation creates.   |
 
 
 <br>
