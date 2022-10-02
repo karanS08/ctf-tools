@@ -18,6 +18,8 @@
 | Dirbuster       | Web      |https://www.kali.org/tools/dirbuster/           |DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|
 | Subbrute        | Web      |https://github.com/TheRook/subbrute             |A DNS meta-query spider that enumerates DNS records, and subdomains. |
 | Webgrep         | Web      |https://github.com/dhondta/webgrep              |grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
+| FFUF         | Web      | https://github.com/ffuf/ffuf              | Fast web fuzzer written in Go  |
+| Wpscan         | Web      | https://github.com/wpscanteam/wpscan              | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. |
 
 
 <br>
