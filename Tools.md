@@ -1,4 +1,4 @@
-****| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
+| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
@@ -100,6 +100,7 @@
 | metasploit   | pwn      | https://www.metasploit.com/             | Very powerful penetration testing framework          |
 | Nmap         | pwn      | https://nmap.org/                       | utility for network discovery and security auditing. |
 | Wireshark    | pwn      | https://wireshark.org/                  | Network protocol analyzer tool                       |
+| RustScan     | pwn      | https://github.com/RustScan/RustScan    | The fast port scanner.                               |
 
 
 
