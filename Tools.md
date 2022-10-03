@@ -40,8 +40,8 @@
 | dCode | Misc | https://www.dcode.fr/tools-list | A online tool for identifying and decoding various ciphers |
 | ShadowcryptTools | Misc |  https://shadowcrypt.net/tools/ | A collection of 24 online tools for OSINT, network scanning, MD5 encryption and many others |
 | Android-SDK | android |  https://developer.android.com/studio | A tool for development of android app using android-sdk,emulator |
-
-
+| Hash Analyzer | Misc   | https://www.tunnelsup.com/hash-analyzer/    | A website that helps to identify hash types.
+| Audacity | Misc | https://www.audacityteam.org/download/ | An audio editor that can be used for waveform and spectrum steganography.
 
 <br>
 
