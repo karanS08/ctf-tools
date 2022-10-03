@@ -29,6 +29,7 @@
 | Akshat Kushwaha | https://github.com/Akshat-02 |
 | Madhav Saini       | https://github.com/FireNdIce3 |
 | mind8hunter | https://github.com/mind8hunter |
+| Astra       | https://github.com/Astra5155j  |
 | Som Chandra | https://github.com/Somchandra17 |
 | aph | https://github.com/aphkyle/ |
 | Dhiraj Gilda | https://github.com/DhirajGilda |
@@ -44,5 +45,8 @@
 | Abhishek Kumar Roy | https://github.com/Adi-Abhishek |
 | mirusu400 | https://github.com/mirusu400 |
 | Chinmay | https://github.com/chinmayayy |
+| Arefat H. | https://github.com/arefathi | 
 | Nishant | https://github.com/Nishantjain10 |
 | fernandoleira | https://github.com/fernandoleira |
+| Chirag Mathur            | https://github.com/mchirag2002      |
+| FluxCapacitor2          | https://github.com/FluxCapacitor2     |
