@@ -42,6 +42,7 @@
 | Android-SDK | android |  https://developer.android.com/studio | A tool for development of android app using android-sdk,emulator |
 | Hash Analyzer | Misc   | https://www.tunnelsup.com/hash-analyzer/    | A website that helps to identify hash types.
 | Audacity | Misc | https://www.audacityteam.org/download/ | An audio editor that can be used for waveform and spectrum steganography.
+| instances | Misc | https://instances.vantage.sh/ | EC2 instance metrics and pricing on AWS
 
 <br>
 
