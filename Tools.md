@@ -21,6 +21,8 @@
 | Aline        | Web      | https://github.com/ferreiraklet/Aline             | A tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
 | WebHackUrls         | Web      | https://github.com/mathis2001/WebHackUrls              | A tool for URl recon with filter by keyword and saving results to file. |
 | SimilarWeb         | Web      | https://www.similarweb.com/             | A tool that provides detailed website traffic analysis |
+| XSSer    | Web      | https://xsser.03c8.net/                      | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.     |
+
 
 
 <br>
@@ -93,8 +95,8 @@
 | Featherduster   | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                    |
 | Hashkill        | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                              |
 | Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
-| Factordb        | Crypto   | http://factordb.com/ | Automated Integer Factorization. |
-
+| Factordb        | Crypto   | http://factordb.com/                        | Automated Integer Factorization. |
+| Cointracking    | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.  |
 
 <br>
 
