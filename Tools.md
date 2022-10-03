@@ -86,6 +86,7 @@
 | Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
 | Factordb        | Crypto   | http://factordb.com/                        | Automated Integer Factorization. |
 | Cointracking    | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.  |
+| Ciphers    | Crypto   | [https://rumkin.com/tools/cipher/]                | A collection of different ciphers tools to encrypt/decrypt messages.  |
 
 <br>
 
