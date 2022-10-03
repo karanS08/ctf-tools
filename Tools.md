@@ -27,6 +27,7 @@
 | Cookie-editor   | Web      | https://github.com/Moustachauve/cookie-editor   | Browser extension to create, edit and delete cookies for the current tab.     |
 | Chrome DevTools | Web | https://developer.chrome.com/docs/devtools/ |  Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 |Nessus     | Web   | https://www.tenable.com/downloads/nessus?loginAttempted=true | An all in one tool that has various featured like network scan , website scan , api scan , etc  |
+| Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer        | Browser extension which identifies technologies on websites |
 
 
 
@@ -103,6 +104,7 @@
 | Nmap         | pwn      | https://nmap.org/                       | utility for network discovery and security auditing. |
 | Wireshark    | pwn      | https://wireshark.org/                  | Network protocol analyzer tool                       |
 | RustScan     | pwn      | https://github.com/RustScan/RustScan    | The fast port scanner.                               |
+| Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS  | Shows the ways to escalate privileges on Linux |
 
 
 
