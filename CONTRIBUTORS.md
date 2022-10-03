@@ -54,3 +54,5 @@
 | Siddhant | https://github.com/Sidd2024 |
 | Sneha Farkya | https://github.com/snehafarkya |
 | Kavya | https://github.com/kavyabhat02 | 
+| Nikhil Mahana | https://github.com/NikhilMahana |
+
