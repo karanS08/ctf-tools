@@ -1,6 +1,7 @@
 | Name               | GitHub Link                     |
 | ------------------ | ------------------------------- |
 | Karan Sharma       | https://github.com/karanS08     |
+| Abhiyan Dev Rimal       | https://github.com/abhirimal     |
 | Hussain Lohawala   | https://github.com/H9660        |
 | Kitton             | https://github.com/Kittonn      |
 | Sidharth V         | https://github.com/retr0ds      |
