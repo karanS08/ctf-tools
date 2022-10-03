@@ -1,4 +1,4 @@
-****| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
+| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
