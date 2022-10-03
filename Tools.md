@@ -1,4 +1,4 @@
-****| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
+| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
@@ -45,6 +45,7 @@
 | Hash Analyzer | Misc   | https://www.tunnelsup.com/hash-analyzer/    | A website that helps to identify hash types.
 | Audacity | Misc | https://www.audacityteam.org/download/ | An audio editor that can be used for waveform and spectrum steganography.
 | prezto     | Misc     | https://github.com/sorin-ionescu/prezto            | Prezto is the configuration framework for Zsh
+| instances | Misc | https://instances.vantage.sh/ | Tool to compare EC2 metrics and pricing on AWS
 
 <br>
 
@@ -69,6 +70,7 @@
 | OSINT Search Tools   | OSINT              | https://osint.hopain.cyou/index.html            | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines   |
 | SnapScraper   | OSINT              |    https://rhematt.github.io/Snap-Scraper/         | SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.   |
 | GitHound   | OSINT              |    https://github.com/tillson/git-hound         | A useful tool to extract sensitive information leaked on github, can be used for bug bounty hunting.   |
+| Sublist3r | OSINT   |  https://github.com/aboul3la/Sublist3r   |  Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT |
 
 <br>
 
