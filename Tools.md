@@ -18,10 +18,13 @@
 | Dirbuster       | Web      | https://www.kali.org/tools/dirbuster/           | DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers. |
 | Subbrute        | Web      | https://github.com/TheRook/subbrute             | A DNS meta-query spider that enumerates DNS records, and subdomains. |
 | Webgrep         | Web      | https://github.com/dhondta/webgrep              | grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
+| lfimap          | Web      | https://github.com/hansmach1ne/lfimap           | Local file inclusion discovery and exploitation tool                         |
+| Xepor           | Web      | https://github.com/xepor/xepor                  | Xepor, a web routing framework for reverse engineers and security researchers, brings the best of mitmproxy & Flask   |
 | Aline        | Web      | https://github.com/ferreiraklet/Aline             | A tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
 | WebHackUrls         | Web      | https://github.com/mathis2001/WebHackUrls              | A tool for URl recon with filter by keyword and saving results to file. |
 | SimilarWeb         | Web      | https://www.similarweb.com/             | A tool that provides detailed website traffic analysis |
 | XSSer    | Web      | https://xsser.03c8.net/                      | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.     |
+
 
 
 
@@ -97,7 +100,7 @@
 | Yafu            | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                             |
 | Factordb        | Crypto   | http://factordb.com/                        | Automated Integer Factorization. |
 | Cointracking    | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.  |
-
+| StegoCracker    | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
 <br>
 
 
