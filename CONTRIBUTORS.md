@@ -50,8 +50,15 @@
 | fernandoleira | https://github.com/fernandoleira |
 | Chirag Mathur            | https://github.com/mchirag2002      |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
+| Durgaprasad | https://github.com/Durgaprasad101 |
 | Kavya | https://github.com/kavyabhat02 | 
+| Aditya | https://github.com/TheAdityaGupta   |
 | Siddhant | https://github.com/Sidd2024 |
 | Sneha Farkya | https://github.com/snehafarkya |
 | Kavya | https://github.com/kavyabhat02 | 
 | NatthawatS | https://github.com/NatthawatS | 
+| Nikhil Mahana | https://github.com/NikhilMahana |
+| Kavya | https://github.com/kavyabhat02 |
+| Mayur Jethwa | https://github.com/mayyyur |
+| Hussain Lohawala   | https://github.com/H9660|
+
