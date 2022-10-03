@@ -58,3 +58,4 @@
 | Kavya | https://github.com/kavyabhat02 |
 | Mayur Jethwa | https://github.com/mayyyur |
 | Hussain Lohawala   | https://github.com/H9660|
+| Fiiryn   | https://github.com/Twi1ight-github |
