@@ -61,5 +61,7 @@
 | Kavya | https://github.com/kavyabhat02 |
 | Mayur Jethwa | https://github.com/mayyyur |
 | Hussain Lohawala   | https://github.com/H9660|
+| Vikash Maurya | https://github.com/kalvik09 |
+| Yash Indane | https://github.com/YashIndane |
+| Sumit Kumar | https://github.com/Shadowpii |
 | nedondev   | https://github.com/nedondev |
-
