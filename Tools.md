@@ -24,6 +24,7 @@
 | WebHackUrls         | Web      | https://github.com/mathis2001/WebHackUrls              | A tool for URl recon with filter by keyword and saving results to file. |
 | SimilarWeb         | Web      | https://www.similarweb.com/             | A tool that provides detailed website traffic analysis |
 | XSSer    | Web      | https://xsser.03c8.net/                      | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.     |
+| Cookie-editor   | Web      | https://github.com/Moustachauve/cookie-editor   | Browser extension to create, edit and delete cookies for the current tab.     |
 | Chrome DevTools | Web | https://developer.chrome.com/docs/devtools/ |  Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 |Nessus     | Web   | https://www.tenable.com/downloads/nessus?loginAttempted=true | An all in one tool that has various featured like network scan , website scan , api scan , etc  |
 
