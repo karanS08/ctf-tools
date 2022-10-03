@@ -1,4 +1,4 @@
-| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
+****| Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
@@ -42,6 +42,7 @@
 | Android-SDK | android |  https://developer.android.com/studio | A tool for development of android app using android-sdk,emulator |
 | Hash Analyzer | Misc   | https://www.tunnelsup.com/hash-analyzer/    | A website that helps to identify hash types.
 | Audacity | Misc | https://www.audacityteam.org/download/ | An audio editor that can be used for waveform and spectrum steganography.
+| prezto     | Misc     | https://github.com/sorin-ionescu/prezto            | Prezto is the configuration framework for Zsh
 
 <br>
 
