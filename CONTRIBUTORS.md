@@ -50,4 +50,4 @@
 | fernandoleira | https://github.com/fernandoleira |
 | Chirag Mathur            | https://github.com/mchirag2002      |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
-| Durgaprasad |   https://github.com/Durgaprasad101   |
+| Durgaprasad | https://github.com/Durgaprasad101 |
