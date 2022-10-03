@@ -18,7 +18,11 @@
 | Dirbuster       | Web      | https://www.kali.org/tools/dirbuster/           | DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers. |
 | Subbrute        | Web      | https://github.com/TheRook/subbrute             | A DNS meta-query spider that enumerates DNS records, and subdomains. |
 | Webgrep         | Web      | https://github.com/dhondta/webgrep              | grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
+| Aline        | Web      | https://github.com/ferreiraklet/Aline             | A tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
+| WebHackUrls         | Web      | https://github.com/mathis2001/WebHackUrls              | A tool for URl recon with filter by keyword and saving results to file. |
+| SimilarWeb         | Web      | https://www.similarweb.com/             | A tool that provides detailed website traffic analysis |
 | XSSer    | Web      | https://xsser.03c8.net/                      | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.     |
+
 
 
 <br>
@@ -29,7 +33,9 @@
 | CyberChef     | Misc     | https://gchq.github.io/CyberChef/             | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ... |
 | Hash-Identify | Misc     | https://github.com/blackploit/hash-identifier | Software to identify the different types of hashes used to encrypt data and especially passwords.                              |
 | dCode | Misc | https://www.dcode.fr/tools-list | A online tool for identifying and decoding various ciphers |
+| ShadowcryptTools | Misc |  https://shadowcrypt.net/tools/ | A collection of 24 online tools for OSINT, network scanning, MD5 encryption and many others |
 | Android-SDK | android |  https://developer.android.com/studio | A tool for development of android app using android-sdk,emulator |
+
 
 <br>
 
@@ -48,6 +54,9 @@
 | Hunter.io           | OSINT               | https://hunter.io/                         | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business. |
 | InstantUsername   | OSINT              | https://instantusername.com/#/              | Tool to search for a given username in all social media | 
 | Twint   | OSINT              | https://github.com/twintproject/twint             | A Python Tool to scrape twitter data without API limitations | 
+| KnockKnock   | OSINT              | https://github.com/harleo/knockknock            | A script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain | 
+| WEBOSINT   | OSINT              | https://github.com/C3n7ral051nt4g3ncy/webosint             | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. | 
+| OSINT Search Tools   | OSINT              | https://osint.hopain.cyou/index.html            | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines   |
 
 <br>
 
@@ -61,7 +70,8 @@
 | DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
 | Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
 | Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
-
+| Sherloq | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
+| Lookyloo | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
 <br>
 
 
