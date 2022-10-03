@@ -68,7 +68,7 @@
 | WEBOSINT   | OSINT              | https://github.com/C3n7ral051nt4g3ncy/webosint             | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. | 
 | OSINT Search Tools   | OSINT              | https://osint.hopain.cyou/index.html            | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines   |
 | SnapScraper   | OSINT              |    https://rhematt.github.io/Snap-Scraper/         | SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.   |
-
+| Sublist3r | OSINT   |  https://github.com/aboul3la/Sublist3r   |  Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT |
 
 <br>
 
