@@ -65,7 +65,7 @@
 | KnockKnock   | OSINT              | https://github.com/harleo/knockknock            | A script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain | 
 | WEBOSINT   | OSINT              | https://github.com/C3n7ral051nt4g3ncy/webosint             | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. | 
 | OSINT Search Tools   | OSINT              | https://osint.hopain.cyou/index.html            | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines   |
-| SnapScraper   | OSINT              |    https://rhematt.github.io/Snap-Scraper/         | SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.   |
+
 
 
 <br>
@@ -118,6 +118,7 @@
 | Ciphers    | Crypto   | [https://rumkin.com/tools/cipher/]                | A collection of different ciphers tools to encrypt/decrypt messages.  |
 | StegoCracker    | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
 | PkCrack | Crypto | https://github.com/keyunluo/pkcrack | A tool for breaking PkZip-encryption. |
+| John the Ripper | Crypto | https://github.com/openwall/john | Crack password tool. |
 
 
 <br>
@@ -136,4 +137,3 @@
 | Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
 | ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
 | BinUtils | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code. |
-| Binary Ninja | Reverse Engineering | https://binary.ninja/ | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis. |
