@@ -53,4 +53,5 @@
 | Kavya | https://github.com/kavyabhat02 | 
 | Siddhant | https://github.com/Sidd2024 |
 | Sneha Farkya | https://github.com/snehafarkya |
-| Kavya | https://github.com/kavyabhat02 | 
+| Kavya | https://github.com/kavyabhat02 |
+| Mayur Jethwa | https://github.com/mayyyur |
