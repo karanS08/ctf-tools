@@ -50,4 +50,5 @@
 | fernandoleira | https://github.com/fernandoleira |
 | Chirag Mathur            | https://github.com/mchirag2002      |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
+| Sneha Farkya | https://github.com/snehafarkya |
 | Kavya | https://github.com/kavyabhat02 | 
