@@ -48,4 +48,4 @@
 | Arefat H. | https://github.com/arefathi | 
 | Nishant | https://github.com/Nishantjain10 |
 | Chirag Mathur            | https://github.com/mchirag2002      |
-
+| FluxCapacitor2          | https://github.com/FluxCapacitor2     |

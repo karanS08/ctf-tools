@@ -30,6 +30,8 @@
 
 <br>
 
+
+
 | Name of tool  | Category | Link to the tool                              | Short Description                                                                                                              |
 | ------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Oh My Zsh     | Misc     | https://github.com/ohmyzsh/ohmyzsh            | Framework for zsh terminal customization.                                                                                      |
@@ -40,7 +42,9 @@
 | Android-SDK | android |  https://developer.android.com/studio | A tool for development of android app using android-sdk,emulator |
 
 
+
 <br>
+
 
 
 | Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
@@ -61,7 +65,10 @@
 | WEBOSINT   | OSINT              | https://github.com/C3n7ral051nt4g3ncy/webosint             | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. | 
 | OSINT Search Tools   | OSINT              | https://osint.hopain.cyou/index.html            | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines   |
 
+
+
 <br>
+
 
 
 | Name of tool | Category  | Link to the tool                      | Short Description                                                                               |
@@ -73,9 +80,14 @@
 | DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
 | Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
 | Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
+| StegOnline | Forensics | https://stegonline.georgeom.net/ | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
 | Sherloq | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
 | Lookyloo | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
+
+
+
 <br>
+
 
 
 | Name of tool | Category | Link to the tool                        | Short Description                                    |
@@ -87,7 +99,9 @@
 | Wireshark    | pwn      | https://wireshark.org/                  | Network protocol analyzer tool                       |
 
 
+
 <br>
+
 
 
 | Name of tool    | Category | Link to the tool                            | Short Description                                            |
@@ -101,6 +115,9 @@
 | Factordb        | Crypto   | http://factordb.com/                        | Automated Integer Factorization. |
 | Cointracking    | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.  |
 | StegoCracker    | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
+
+
+
 <br>
 
 
