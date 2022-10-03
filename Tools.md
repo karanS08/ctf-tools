@@ -134,3 +134,4 @@
 | WinHex | Reverse Engineering | https://x-ways.net/winhex/ | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
 | Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
 | ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
+| Androguard | Reverse Engineering | https://github.com/androguard/androguard | Androguard is a full python tool to play with android files. You can either use the command line or graphical frontend for androguard, or use androguard purely as a library for your own tools and scripts. There are so many open source projects are there which uses androguard like Droidbot, Cuckoo Sandbox, MobSF etc. |
