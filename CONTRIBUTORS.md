@@ -52,3 +52,5 @@
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
 | Kavya | https://github.com/kavyabhat02 | 
 | Siddhant | https://github.com/Sidd2024 |
+| Sneha Farkya | https://github.com/snehafarkya |
+| Kavya | https://github.com/kavyabhat02 | 
