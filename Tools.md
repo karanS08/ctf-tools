@@ -25,7 +25,8 @@
 | SimilarWeb         | Web      | https://www.similarweb.com/             | A tool that provides detailed website traffic analysis |
 | XSSer    | Web      | https://xsser.03c8.net/                      | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.     |
 | Cookie-editor   | Web      | https://github.com/Moustachauve/cookie-editor   | Browser extension to create, edit and delete cookies for the current tab.     |
-
+| Chrome DevTools | Web | https://developer.chrome.com/docs/devtools/ |  Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
+|Nessus     | Web   | https://www.tenable.com/downloads/nessus?loginAttempted=true | An all in one tool that has various featured like network scan , website scan , api scan , etc  |
 
 
 
@@ -65,7 +66,7 @@
 | KnockKnock   | OSINT              | https://github.com/harleo/knockknock            | A script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain | 
 | WEBOSINT   | OSINT              | https://github.com/C3n7ral051nt4g3ncy/webosint             | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. | 
 | OSINT Search Tools   | OSINT              | https://osint.hopain.cyou/index.html            | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines   |
-
+| SnapScraper   | OSINT              |    https://rhematt.github.io/Snap-Scraper/         | SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.   |
 
 
 <br>
@@ -136,3 +137,4 @@
 | Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
 | ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
 | BinUtils | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code. |
+| Binary Ninja | Reverse Engineering | https://binary.ninja/ | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis. |
