@@ -94,7 +94,7 @@
 | StegOnline | Forensics | https://stegonline.georgeom.net/ | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
 | Sherloq | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
 | Lookyloo | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
-
+| pngtools | Forensics | https://github.com/mikalstill/pngtools | An open-source tool to dissect pngs. |
 
 
 <br>
