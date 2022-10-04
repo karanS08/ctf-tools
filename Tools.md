@@ -152,3 +152,21 @@
 | BinUtils | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code. |
 | Binary Ninja | Reverse Engineering | https://binary.ninja/ | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis. |
 | Hashcat      | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
+
+<br>
+
+| Name of tool    | Category      | Link to the tool                            | Short Description                                            |
+| ------------    | --------      | ----------------------------------------    | ------------------------------------------------------------ |
+| John the Jumbo  | Bruteforcer   | https://github.com/openwall/john            | Community enhanced version of John the Ripper                |
+| DLL Injector    | Exploits      | https://github.com/OpenSecurityResearch/dllinjector | Inject dlls in processes                             |
+| VOlt            | Exploits      | https://github.com/P1kachu/v0lt             | Security CTF Toolkit                                         |
+| Creddump        | Forensics     | https://github.com/moyix/creddump           | Dump windows credentials                                     |
+| Exif Tool       | Forensics     | https://exiftool.org/                       | Read, write and edit file metadata                           |
+| WinDbg          | Reversing     | http://www.windbg.org/                      | Windows debugger distributed by Microsoft                    |
+| IDA Pro         | Reversing     | https://www.hex-rays.com/ida-pro/           | Most used Reversing software                                 |
+| Hopper          | Reversing     | https://www.hopperapp.com/                  | Reverse engineering tool (disassembler) for OSX and Linux    |
+| Steganabara     | Steganography | https://www.openhub.net/p/steganabara       | Tool for stegano analysis written in Java                    |
+| Stegbreak       | Steganography | https://linux.die.net/man/1/stegbreak       | Launches brute-force dictionary attacks on JPG image         |
+| Hackbar         | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation          |
+
+<br>
