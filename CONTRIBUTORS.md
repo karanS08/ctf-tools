@@ -54,23 +54,25 @@
 | Chirag Mathur           | https://github.com/mchirag2002        |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
 | Durgaprasad             | https://github.com/Durgaprasad101     |
-| Kavya                   | https://github.com/kavyabhat02        |
+| Kavya                   | https://github.com/kavyabhat02        | 
 | Aditya                  | https://github.com/TheAdityaGupta     |
 | Siddhant                | https://github.com/Sidd2024           |
-| Sneha Farkya            | https://github.com/snehafarkya        |
-| Kavya                   | https://github.com/kavyabhat02        |
-| NatthawatS              | https://github.com/NatthawatS         |
-| Nikhil Mahana           | https://github.com/NikhilMahana       |
-| Kavya                   | https://github.com/kavyabhat02        |
-| Mayur Jethwa            | https://github.com/mayyyur            |
-| Hussain Lohawala        | https://github.com/H9660              |
-| Vikash Maurya           | https://github.com/kalvik09           |
-| Yash Indane             | https://github.com/YashIndane         |
-| Sumit Kumar             | https://github.com/Shadowpii          |
-| nedondev                | https://github.com/nedondev           |
-| Som Chandra             | https://github.com/Somchandra17       |
-| Earl Millen             | https://github.com/akwe-afriitech     |
-| Bharath                 | https://github.com/bharathmb7         |
-| Bram Musuko             | https://github.com/bmusuko            |
-| Amiyanshu               | https://github.com/Amiyanshu-web      |
-| Haz                     | https://github.com/Vantekken          |
+| Sneha Farkya | https://github.com/snehafarkya |
+| Kavya | https://github.com/kavyabhat02 | 
+| NatthawatS | https://github.com/NatthawatS | 
+| Nikhil Mahana | https://github.com/NikhilMahana |
+| Kavya | https://github.com/kavyabhat02 |
+| Mayur Jethwa | https://github.com/mayyyur |
+| Hussain Lohawala   | https://github.com/H9660|
+| Vikash Maurya | https://github.com/kalvik09 |
+| Yash Indane | https://github.com/YashIndane |
+| Sumit Kumar | https://github.com/Shadowpii |
+| nedondev   | https://github.com/nedondev |
+| Som Chandra | https://github.com/Somchandra17 |
+| Earl Millen | https://github.com/akwe-afriitech |
+| Bharath | https://github.com/bharathmb7 |
+| Bram Musuko | https://github.com/bmusuko |
+| Amiyanshu | https://github.com/Amiyanshu-web |
+| Ayush Kumar | https://github.com/Akayush-17 |
+| Teslim | https://github.com/Tes-program |
+

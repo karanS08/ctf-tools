@@ -29,6 +29,7 @@
 | Chrome DevTools | Web      | https://developer.chrome.com/docs/devtools/                    | Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
+| Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
 
 <br>
 
@@ -44,6 +45,7 @@
 | Audacity         | Misc     | https://www.audacityteam.org/download/        | An audio editor that can be used for waveform and spectrum steganography.                                                      |
 | prezto           | Misc     | https://github.com/sorin-ionescu/prezto       | Prezto is the configuration framework for Zsh                                                                                  |
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
+| Malzilla      | Misc      | https://malzilla.sourceforge.net/     | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers |
 
 <br>
 
@@ -75,18 +77,23 @@
 
 <br>
 
-| Name of tool     | Category  | Link to the tool                                   | Short Description                                                                                                                                                      |
-| ---------------- | --------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exiftool         | Forensics | https://github.com/exiftool                        | Tool for looking into meta data and other useful information related to a particular image file                                                                        |
-| Binwalk          | Forensics | https://github.com/ReFirmLabs/binwalk              | Tool for searching a given binary image for embedded files and executable code.                                                                                        |
-| Forensically     | Forensics | https://29a.ch/photo-forensics/#forensic-magnifier | Forensically is a set of free tools for digital image forensics.                                                                                                       |
-| Aperisolve       | Forensics | https://www.aperisolve.com/                        | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others.                                                           |
-| DTMF decoder     | Forensics | https://unframework.github.io/dtmf-detect/         | Tool to solve DTMF audio based forensics                                                                                                                               |
-| Dislocker        | Forensics | http://www.hsc.fr/ressources/outils/dislocker/     | Tool for reading Bitlocker encrypted partitions.                                                                                                                       |
-| Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/        | Tools for firmware packing/unpacking.                                                                                                                                  |
-| StegOnline       | Forensics | https://stegonline.georgeom.net/                   | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
-| Sherloq          | Forensics | https://github.com/GuidoBartoli/sherloq            | An open-source digital image forensic toolset                                                                                                                          |
-| Lookyloo         | Forensics | https://lookyloo.circl.lu/                         | Webapp allowing to scrape a website and then displays a tree of domains calling each other                                                                             |
+
+
+| Name of tool | Category  | Link to the tool                      | Short Description                                                                               |
+| ------------ | --------- | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Exiftool     | Forensics | https://github.com/exiftool           | Tool for looking into meta data and other useful information related to a particular image file |
+| Binwalk      | Forensics | https://github.com/ReFirmLabs/binwalk | Tool for searching a given binary image for embedded files and executable code.                 |
+| Forensically | Forensics  | https://29a.ch/photo-forensics/#forensic-magnifier | Forensically is a set of free tools for digital image forensics.                  |
+| Aperisolve | Forensics | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
+| DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
+| Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
+| Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
+| StegOnline | Forensics | https://stegonline.georgeom.net/ | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
+| Sherloq | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
+| Lookyloo | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
+| Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
+| Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
+
 
 <br>
 
