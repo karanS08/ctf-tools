@@ -75,3 +75,7 @@ if you fail to make 4 pull request then you can't get swags or t-shirts.
 '''
 ```
 
+## New Contributors ✨
+<a href = "https://github.com/karanS08/ctf-tools/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=karanS08/ctf-tools"/>
+</a>
