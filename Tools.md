@@ -29,6 +29,7 @@
 | Chrome DevTools | Web | https://developer.chrome.com/docs/devtools/ |  Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 |Nessus     | Web   | https://www.tenable.com/downloads/nessus?loginAttempted=true | An all in one tool that has various featured like network scan , website scan , api scan , etc  |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer        | Browser extension which identifies technologies on websites |
+| Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
 
 
 
@@ -94,6 +95,8 @@
 | StegOnline | Forensics | https://stegonline.georgeom.net/ | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
 | Sherloq | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
 | Lookyloo | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
+| Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
+| Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 
 
 
