@@ -28,6 +28,7 @@
 | nga1hte | https://github.com/nga1hte |
 | Mohd Shahil | https://github.com/Shahil2002 |
 | Soumik Seal | https://github.com/Soumik8114 |
+| yash upadhyay | https://github.com/yashhacker69 |
 | Akshat Kushwaha | https://github.com/Akshat-02 |
 | Madhav Saini       | https://github.com/FireNdIce3 |
 | mind8hunter | https://github.com/mind8hunter |
