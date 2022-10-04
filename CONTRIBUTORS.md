@@ -57,6 +57,7 @@
 | Kavya                   | https://github.com/kavyabhat02        | 
 | Aditya                  | https://github.com/TheAdityaGupta     |
 | Siddhant                | https://github.com/Sidd2024           |
+| Nikita 		  | https://github.com/surfacewatering	  |
 | Sneha Farkya | https://github.com/snehafarkya |
 | Kavya | https://github.com/kavyabhat02 | 
 | NatthawatS | https://github.com/NatthawatS | 
