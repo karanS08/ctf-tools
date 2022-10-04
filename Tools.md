@@ -130,7 +130,8 @@
 | cutter           | Reverse Engineering | https://github.com/rizinorg/cutter          | Reverse Engineering platform (disassembler)                                                                                                    |
 | IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/               | Tool for disassembling a binary file and also a versatile debugger                                                                             |
 | gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
-| Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
+| Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.|
+| John The Ripper | hash cracker | https://www.openwall.com/john/ | A password cracking tool using password hashes |
 | Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA      |
 | ScyllaHide           | Reverse Engineering | https://github.com/x64dbg/ScyllaHide | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.     |
 | WinHex | Reverse Engineering | https://x-ways.net/winhex/ | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
