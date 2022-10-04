@@ -1,5 +1,6 @@
 | Name               | GitHub Link                     |
 | ------------------ | ------------------------------- |
+| Dex_Lulz           | https://github.com/DexLulz      |
 | Karan Sharma       | https://github.com/karanS08     |
 | Abhiyan Dev Rimal       | https://github.com/abhirimal     |
 | Hussain Lohawala   | https://github.com/H9660        |
