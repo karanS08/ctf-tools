@@ -45,7 +45,7 @@
 | Audacity         | Misc     | https://www.audacityteam.org/download/        | An audio editor that can be used for waveform and spectrum steganography.                                                      |
 | prezto           | Misc     | https://github.com/sorin-ionescu/prezto       | Prezto is the configuration framework for Zsh                                                                                  |
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
-| Unsplash	   | Misc     | https://unsplash.com/developers		      | Collection of images whose API can be used to retrieve high quality images. 						       |
+| Unsplash	   | Misc     | https://unsplash.com/developers		      | Collection of images whose API can be used to retrieve high quality images. 		 				       |
 | Malzilla      | Misc      | https://malzilla.sourceforge.net/     | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers |
 
 <br>
