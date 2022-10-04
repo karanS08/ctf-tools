@@ -1,7 +1,6 @@
 | Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
-|Gobuster         | Web      | https://github.com/OJ/gobuster                 | Bruteforce tool for finding directories and files in webserver
-| 
+|Gobuster         | Web      | https://github.com/OJ/gobuster                 | Bruteforce tool for finding directories and files in webserver| 
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
 | HackBrowserData | Web      | https://github.com/moonD4rk/HackBrowserData    | Tools that could help us decrypt data like password, bookmark, history from the browser. |
