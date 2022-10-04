@@ -73,6 +73,8 @@
 | Bharath | https://github.com/bharathmb7 |
 | Bram Musuko | https://github.com/bmusuko |
 | Amiyanshu | https://github.com/Amiyanshu-web |
+| Nayaneeka Mahapatra | https://github.com/nexi9 |
 | Ayush Kumar | https://github.com/Akayush-17 |
 | Teslim | https://github.com/Tes-program |
+
 
