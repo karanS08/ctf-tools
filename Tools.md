@@ -75,6 +75,7 @@
 | GitHound   | OSINT              |    https://github.com/tillson/git-hound         | A useful tool to extract sensitive information leaked on github, can be used for bug bounty hunting.   |
 | Sublist3r | OSINT   |  https://github.com/aboul3la/Sublist3r   |  Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT |
 |Maltego |  OSINT | https://github.com/M0m0SMS-OSINT/Maltego  | Maltego is a Java application that simplify and expedite your investigations.Thanks to its fantastic access to databases and visualization tools. |
+| DeHashed | OSINT   |  https://www.dehashed.com/   |  DeHashed is a hacked database search engine to help secure accounts and provide insight on database breaches and account leaks |
 
 <br>
 
