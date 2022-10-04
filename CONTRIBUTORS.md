@@ -9,6 +9,7 @@
 | zzril              | https://github.com/zzril        |
 | Samuuuh            | https://github.com/Samuuuh      |
 | Karan              | https://github.com/Ye8i         |
+| Aditya  | https://github.com/TheAdityaGupta |
 | Arn                | https://github.com/arn355       |
 | Anant Kumar Mathur | https://github.com/anant2003    |
 | Skul1CrowN         | https://github.com/Skul1CrowN   |
