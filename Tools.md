@@ -76,7 +76,9 @@
 | Sublist3r | OSINT   |  https://github.com/aboul3la/Sublist3r   |  Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT |
 |Maltego |  OSINT | https://github.com/M0m0SMS-OSINT/Maltego  | Maltego is a Java application that simplify and expedite your investigations.Thanks to its fantastic access to databases and visualization tools. |
 | DeHashed | OSINT   |  https://www.dehashed.com/   |  DeHashed is a hacked database search engine to help secure accounts and provide insight on database breaches and account leaks |
-
+| octosuite  | OSINT  | https://github.com/bellingcat/octosuite  | Advanced Github OSINT Framework   |
+| Watools    | OSINT  | https://Watools.io                       | download whatsapp profile picture  |
+| WAGSCRAPER  | OSINT | https://github.com/riz4d/WaGpScraper     | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links. |
 <br>
 
 
