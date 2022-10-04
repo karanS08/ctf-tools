@@ -1,5 +1,7 @@
 | Name of tool    | Category | Link to the tool                               | Short Discription                                                                        |
 | --------------- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
+|Gobuster         | Web      | https://github.com/OJ/gobuster                 | Bruteforce tool for finding directories and files in webserver
+| 
 | Dirsearch       | Web      | https://github.com/maurosoria/dirsearch        | Tool for scanning a website path.                                                        |
 | Sqlmap          | Web      | https://sqlmap.org/                            | automates the process of detecting and exploiting SQL injection                          |
 | HackBrowserData | Web      | https://github.com/moonD4rk/HackBrowserData    | Tools that could help us decrypt data like password, bookmark, history from the browser. |
@@ -72,6 +74,7 @@
 | SnapScraper   | OSINT              |    https://rhematt.github.io/Snap-Scraper/         | SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.   |
 | GitHound   | OSINT              |    https://github.com/tillson/git-hound         | A useful tool to extract sensitive information leaked on github, can be used for bug bounty hunting.   |
 | Sublist3r | OSINT   |  https://github.com/aboul3la/Sublist3r   |  Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT |
+|Maltego |  OSINT | https://github.com/M0m0SMS-OSINT/Maltego  | Maltego is a Java application that simplify and expedite your investigations.Thanks to its fantastic access to databases and visualization tools. |
 | DeHashed | OSINT   |  https://www.dehashed.com/   |  DeHashed is a hacked database search engine to help secure accounts and provide insight on database breaches and account leaks |
 
 <br>
@@ -139,9 +142,11 @@
 | gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
 | Ciphey           | Docker              | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
 | Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA      |
+| Java Decompilers           | Reverse Engineering | http://www.javadecompilers.com/ | An online decompiler for Java and Android APKs      |
 | ScyllaHide           | Reverse Engineering | https://github.com/x64dbg/ScyllaHide | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.     |
 | WinHex | Reverse Engineering | https://x-ways.net/winhex/ | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
 | Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
 | ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
 | BinUtils | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code. |
 | Binary Ninja | Reverse Engineering | https://binary.ninja/ | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis. |
+| Hashcat      | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |

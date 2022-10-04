@@ -1,6 +1,8 @@
 | Name               | GitHub Link                     |
 | ------------------ | ------------------------------- |
+| Dex_Lulz           | https://github.com/DexLulz      |
 | Karan Sharma       | https://github.com/karanS08     |
+| Abhiyan Dev Rimal       | https://github.com/abhirimal     |
 | Hussain Lohawala   | https://github.com/H9660        |
 | Kitton             | https://github.com/Kittonn      |
 | Sidharth V         | https://github.com/retr0ds      |
@@ -66,4 +68,6 @@
 | Sumit Kumar | https://github.com/Shadowpii |
 | nedondev   | https://github.com/nedondev |
 | Som Chandra | https://github.com/Somchandra17 |
+| Earl Millen | https://github.com/akwe-afriitech |
+| Bharath | https://github.com/bharathmb7 |
 | Bram Musuko | https://github.com/bmusuko |
