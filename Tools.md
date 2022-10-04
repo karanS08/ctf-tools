@@ -29,7 +29,7 @@
 | Chrome DevTools | Web | https://developer.chrome.com/docs/devtools/ |  Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 |Nessus     | Web   | https://www.tenable.com/downloads/nessus?loginAttempted=true | An all in one tool that has various featured like network scan , website scan , api scan , etc  |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer        | Browser extension which identifies technologies on websites |
-| CourseVania      | Web      | https://coursevania.com/       | Website for finding free udemy courses and courses at discount |
+
 
 
 
@@ -48,7 +48,8 @@
 | Hash Analyzer | Misc   | https://www.tunnelsup.com/hash-analyzer/    | A website that helps to identify hash types.
 | Audacity | Misc | https://www.audacityteam.org/download/ | An audio editor that can be used for waveform and spectrum steganography.
 | prezto     | Misc     | https://github.com/sorin-ionescu/prezto            | Prezto is the configuration framework for Zsh
-| instances | Misc | https://instances.vantage.sh/ | Tool to compare EC2 metrics and pricing on AWS
+| instances | Misc | https://instances.vantage.sh/ | Tool to compare EC2 metrics and pricing on AWS |
+| Malzilla      | Misc      | https://malzilla.sourceforge.net/     | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers |
 
 <br>
 
