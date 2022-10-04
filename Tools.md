@@ -72,6 +72,7 @@
 | SnapScraper   | OSINT              |    https://rhematt.github.io/Snap-Scraper/         | SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.   |
 | GitHound   | OSINT              |    https://github.com/tillson/git-hound         | A useful tool to extract sensitive information leaked on github, can be used for bug bounty hunting.   |
 | Sublist3r | OSINT   |  https://github.com/aboul3la/Sublist3r   |  Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT |
+| DeHashed | OSINT   |  https://www.dehashed.com/   |  DeHashed is a hacked database search engine to help secure accounts and provide insight on database breaches and account leaks |
 
 <br>
 
