@@ -102,7 +102,8 @@
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                        |
 | Grepp            | OSINT    | https://grep.app/                            | Searches across git repos using normal keywords
-
+| WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                     |
+| Osintgram          | OSINT    | https://github.com/Datalux/Osintgram           |Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.This tool help to collect, analyze, and run reconnaissance.
 
 
 
