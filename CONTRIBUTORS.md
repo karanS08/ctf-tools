@@ -96,4 +96,5 @@
 | Bruno Castro            | https://github.com/brunolagoa         |
 | timoransky              | https://github.com/timoransky         |
 | Ayush kumar             | https://github.com/Ayush4345          |
+|Shivank Singh            | https://github.com/nasablackberry     |
 | Piyush                  | https://github.com/piyushkdas0611     |
