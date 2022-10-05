@@ -150,15 +150,15 @@
 
 <br>
 
-| Name of Tool   | Category      | Link to the tool                                        | Short Description                                            |
-|----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
-| John the Jumbo | Bruteforcer   | https://github.com/openwall/john                        | Community advance version of John the Ripper                 |
-| DLL Injector   | Exploits      | https://github.com/OpenSecurityResearch/dllinjector     | Injects dlls in processes                                    |
-| Creddump       | Forensics     | https://github.com/moyix/creddump                       | Dump Windows credentials                                     |
-| Exif Tool      | Forensics     | https://exiftool.org/                                   | Read, write and edit file metadata                           |
-| IDA pro        | Reversing     | https://www.hex-rays.com/ida-pro/                       | Most used Reversing software                                 |
-| Hopper         | Reversing     | https://www.hopperapp.com/                              | Reverse engineering tool (disassembler) for OSX and Linux    |
-| Steganabara    | Steganography | https://www.openhub.net/p/steganabara                   | Tool for stegano analysis written in Java                    |
-| Stegbreak      | Steganography | https://linux.die.net/man/1/stegbreak                   | Launches brute-force dictionary attacks on JPG image         |
-| Steghide       | Steganography | https://steghide.sourceforge.net/                       | Hide data in various kind of images                          |
-| Hackbar        | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation                      |
+| Name of Tool    | Category      | Link to the tool                                        | Short Description                                            |
+|-----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
+| John the Jumbo  | Bruteforcer   | https://github.com/openwall/john                        | Community advance version of John the Ripper                 |
+| Twigonometry    | Bruteforcer   | https://github.com/Twigonometry/CTF-Tools               | Scripts for CTFs and pentest practice                        |
+| Hashcat         | Bruteforcer   | https://hashcat.net/hashcat/                            | Password Cracker                                             |
+| John the Ripper | Bruteforcer   | https://www.openwall.com/john/                          | Password Cracker                                             |
+| Nozzlr          | Bruteforcer   | https://github.com/intrd/nozzlr                         |  Nozzlr is a bruteforce framework, trully modular and script-friendly |
+| Ophcrack        | Bruteforcer   | https://ophcrack.sourceforge.io/                        |  Windows password cracker based on rainbow tables            |
+| Patator         | Bruteforcer   | https://github.com/lanjelot/patator                     |  Patator is a multi-purpose brute-forcer, with a modular design |
+| SCWF            | Bruteforcer   | https://github.com/DaWouw/SCWF      | CTF tool for identifying, brute forcing and decoding encryption schemes in an automated way |
+| Stegbrute       | Bruteforcer   | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool |
+| Outguess        | Bruteforcer   | https://github.com/resurrecting-open-source-projects/outguess | Useful in forensics investigations and security actions |
