@@ -85,5 +85,5 @@
 | Pugalarasan             | https://github.com/0xlittleboy        |
 | Duyen Le                | https://github.com/duyenle1312        |
 | Siddak Bagga            | https://github.com/siddakbagga13      |
+| Devanshu                | https://github.com/Devanshu2310       |
 | Matthew Utin            | https://github.com/mattu08            |
-
