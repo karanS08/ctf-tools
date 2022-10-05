@@ -84,3 +84,4 @@
 | Pugalarasan             | https://github.com/0xlittleboy        |
 | Duyen Le                | https://github.com/duyenle1312        |
 | Siddak Bagga            | https://github.com/siddakbagga13      |
+| Aditya | https://github.com/TheAdityaGupta      |
