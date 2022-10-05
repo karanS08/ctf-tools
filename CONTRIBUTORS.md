@@ -11,6 +11,7 @@
 | zzril                   | https://github.com/zzril              |
 | Samuuuh                 | https://github.com/Samuuuh            |
 | Karan                   | https://github.com/Ye8i               |
+| Thanmai Sai             | https://github.com/thanmaisai         |
 | Arn                     | https://github.com/arn355             |
 | Anant Kumar Mathur      | https://github.com/anant2003          |
 | Skul1CrowN              | https://github.com/Skul1CrowN         |
@@ -50,6 +51,7 @@
 | Chinmay                 | https://github.com/chinmayayy         |
 | Arefat H.               | https://github.com/arefathi           |
 | Nishant                 | https://github.com/Nishantjain10      |
+| Nishant                 | https://github.com/Ordinary-droid     |
 | fernandoleira           | https://github.com/fernandoleira      |
 | Chirag Mathur           | https://github.com/mchirag2002        |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
@@ -61,6 +63,7 @@
 | Kavya                   | https://github.com/kavyabhat02        | 
 | NatthawatS              | https://github.com/NatthawatS         | 
 | Nikhil Mahana           | https://github.com/NikhilMahana       |
+| Shivam Pipalwa          | https://github.com/shivampipalwa      |
 | Kavya                   | https://github.com/kavyabhat02        |
 | Mayur Jethwa            | https://github.com/mayyyur            |
 | Hussain Lohawala        | https://github.com/H9660              |
@@ -85,3 +88,14 @@
 | Duyen Le                | https://github.com/duyenle1312        |
 | Siddak Bagga            | https://github.com/siddakbagga13      |
 | Aniket Dubey            | https://github.com/Aniket1026         |
+| Hyun Yi                 | https://github.com/hyuunnn            |
+| Aditya                  | https://github.com/TheAdityaGupta     |
+| Yasrib Proyas           | https://github.com/Proyas21           |
+| Devanshu                | https://github.com/Devanshu2310       |
+| Matthew Utin            | https://github.com/mattu08            |
+| Nguyen Hoang Dung       | https://github.com/gnud-gnaoh         |
+| Bruno Castro            | https://github.com/brunolagoa         |
+| timoransky              | https://github.com/timoransky         |
+| Ayush kumar             | https://github.com/Ayush4345          |
+|Shivank Singh            | https://github.com/nasablackberry     |
+| Piyush                  | https://github.com/piyushkdas0611     |
