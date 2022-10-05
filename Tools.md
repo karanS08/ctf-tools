@@ -216,4 +216,6 @@
 | Hiew             | Reverse Engineering |  http://www.hiew.ru/                               | Hiew is a binary file editor focused on working with code. |
 | pe-bear          | Reverse Engineering |  https://github.com/hasherezade/pe-bear            | Portable Executable reversing tool with a friendly GUI |
 | BARF             | Reverse Engineering |  https://github.com/programa-stic/barf-project     | BARF is an open source binary analysis framework that aims to support a wide range of binary code analysis tasks that are common in the information security discipline.                                      |
+| Compiler Explorer             | Reverse Engineering |  https://github.com/compiler-explorer/compiler-explorer     | Compiler Explorer is an interactive compiler exploration website.                                      |
+| Decompiler Explorer             | Reverse Engineering |  https://github.com/decompiler-explorer/decompiler-explorer     | Decompiler Explorer is a web front-end to a number of decompilers. This web service lets you compare the output of different decompilers on small executables. In other words: It's basically the same thing as Matt Godbolt's awesome Compiler Explorer, but in reverse.                                      |
 
