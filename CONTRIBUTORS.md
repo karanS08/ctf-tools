@@ -91,6 +91,7 @@
 | Yasrib Proyas           | https://github.com/Proyas21           |
 | Devanshu                | https://github.com/Devanshu2310       |
 | Matthew Utin            | https://github.com/mattu08            |
+| Nguyen Hoang Dung       | https://github.com/gnud-gnaoh         |
 | Bruno Castro            | https://github.com/brunolagoa         |
 | timoransky              | https://github.com/timoransky         |
 | Ayush kumar             | https://github.com/Ayush4345          |
