@@ -11,6 +11,7 @@
 | zzril                   | https://github.com/zzril              |
 | Samuuuh                 | https://github.com/Samuuuh            |
 | Karan                   | https://github.com/Ye8i               |
+| Thanmai Sai             | https://github.com/thanmaisai         |
 | Arn                     | https://github.com/arn355             |
 | Anant Kumar Mathur      | https://github.com/anant2003          |
 | Skul1CrowN              | https://github.com/Skul1CrowN         |
@@ -50,6 +51,7 @@
 | Chinmay                 | https://github.com/chinmayayy         |
 | Arefat H.               | https://github.com/arefathi           |
 | Nishant                 | https://github.com/Nishantjain10      |
+| Nishant                 | https://github.com/Ordinary-droid     |
 | fernandoleira           | https://github.com/fernandoleira      |
 | Chirag Mathur           | https://github.com/mchirag2002        |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
@@ -57,26 +59,41 @@
 | Kavya                   | https://github.com/kavyabhat02        | 
 | Aditya                  | https://github.com/TheAdityaGupta     |
 | Siddhant                | https://github.com/Sidd2024           |
-| Sneha Farkya | https://github.com/snehafarkya |
-| Kavya | https://github.com/kavyabhat02 | 
-| NatthawatS | https://github.com/NatthawatS | 
-| Nikhil Mahana | https://github.com/NikhilMahana |
-| Kavya | https://github.com/kavyabhat02 |
-| Mayur Jethwa | https://github.com/mayyyur |
-| Hussain Lohawala   | https://github.com/H9660|
-| Vikash Maurya | https://github.com/kalvik09 |
-| Yash Indane | https://github.com/YashIndane |
-| Sumit Kumar | https://github.com/Shadowpii |
-| nedondev   | https://github.com/nedondev |
-| Som Chandra | https://github.com/Somchandra17 |
-| Earl Millen | https://github.com/akwe-afriitech |
-| Bharath | https://github.com/bharathmb7 |
-| Bram Musuko | https://github.com/bmusuko |
-| Amiyanshu | https://github.com/Amiyanshu-web |
-| njaina | https://github.com/njaina |
-| Nayaneeka Mahapatra | https://github.com/nexi9 |
-| Ayush Kumar | https://github.com/Akayush-17 |
-| Teslim | https://github.com/Tes-program |
-| Priyanshu | https://github.com/priyanshu68 |
-| Jflyer45  | https://github.com/Jflyer45 |
-| Piyush    | https://github.com/piyushkdas0611 |
+| Sneha Farkya            | https://github.com/snehafarkya        |
+| Kavya                   | https://github.com/kavyabhat02        | 
+| NatthawatS              | https://github.com/NatthawatS         | 
+| Nikhil Mahana           | https://github.com/NikhilMahana       |
+| Shivam Pipalwa          | https://github.com/shivampipalwa      |
+| Kavya                   | https://github.com/kavyabhat02        |
+| Mayur Jethwa            | https://github.com/mayyyur            |
+| Hussain Lohawala        | https://github.com/H9660              |
+| Vikash Maurya           | https://github.com/kalvik09           |
+| Yash Indane             | https://github.com/YashIndane         |
+| Sumit Kumar             | https://github.com/Shadowpii          |
+| nedondev                | https://github.com/nedondev           |
+| Som Chandra             | https://github.com/Somchandra17       |
+| Earl Millen             | https://github.com/akwe-afriitech     |
+| Bharath                 | https://github.com/bharathmb7         |
+| Bram Musuko             | https://github.com/bmusuko            |
+| Amiyanshu               | https://github.com/Amiyanshu-web      |
+| njaina                  | https://github.com/njaina             |
+| Nayaneeka Mahapatra     | https://github.com/nexi9              |
+| Ayush Kumar             | https://github.com/Akayush-17         |
+| Teslim                  | https://github.com/Tes-program        |
+| Priyanshu               | https://github.com/priyanshu68        |
+| Jflyer45                | https://github.com/Jflyer45           |
+| mirwansyahs             | https://github.com/mirwansyahs        |
+| piyushkumar12111111     | https://github.com/piyushkumar12111111|
+| Pugalarasan             | https://github.com/0xlittleboy        |
+| Duyen Le                | https://github.com/duyenle1312        |
+| Siddak Bagga            | https://github.com/siddakbagga13      |
+| Hyun Yi                 | https://github.com/hyuunnn            |
+| Aditya                  | https://github.com/TheAdityaGupta     |
+| Yasrib Proyas           | https://github.com/Proyas21           |
+| Devanshu                | https://github.com/Devanshu2310       |
+| Matthew Utin            | https://github.com/mattu08            |
+| Nguyen Hoang Dung       | https://github.com/gnud-gnaoh         |
+| Bruno Castro            | https://github.com/brunolagoa         |
+| timoransky              | https://github.com/timoransky         |
+| Ayush kumar             | https://github.com/Ayush4345          |
+| Piyush                  | https://github.com/piyushkdas0611     |

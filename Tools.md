@@ -1,3 +1,9 @@
+<h1 align="center"> Web Tools </h1>
+<br>
+
+
+
+   
 | Name of tool    | Category | Link to the tool                                               | Short Discription                                                                                                                                                                                                                                                                                                                                              |
 | --------------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Gobuster        | Web      | https://github.com/OJ/gobuster                                 | Bruteforce tool for finding directories and files in webserver                                                                                                                                                                                                                                                                                                 |
@@ -5,6 +11,7 @@
 | Sqlmap          | Web      | https://sqlmap.org/                                            | automates the process of detecting and exploiting SQL injection                                                                                                                                                                                                                                                                                                |
 | HackBrowserData | Web      | https://github.com/moonD4rk/HackBrowserData                    | Tools that could help us decrypt data like password, bookmark, history from the browser.                                                                                                                                                                                                                                                                       |
 | Postman         | Web      | https://www.postman.com/                                       | Tool for testing API calls and stubing the data to APIs to mock the calls                                                                                                                                                                                                                                                                                      |
+| Insomnia         | Web      | https://insomnia.rest/                                        | Tool for testing API calls and stubing the data to APIs to mock the calls                                                                                                                                                                                                                                                                                      |
 | Feroxbuster     | Web      | https://github.com/epi052/feroxbuster                          | A simple, fast, recursive content discovery tool written in Rust                                                                                                                                                                                                                                                                                               |
 | Burp Suite      | Web      | https://portswigger.net/burp/communitydownload                 | It is tool for performing security testing of web applications.                                                                                                                                                                                                                                                                                                |
 | mitmproxy       | Web      | https://mitmproxy.org                                          | Mitmproxy is a free and open source interactive HTTPS proxy.                                                                                                                                                                                                                                                                                                   |
@@ -29,13 +36,23 @@
 | Chrome DevTools | Web      | https://developer.chrome.com/docs/devtools/                    | Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
-| Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
+| Raccoon         | Web      | https://github.com/evyatarmeged/Raccoon                        | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
+| ffuf            | Web      | https://github.com/ffuf/ffuf                                   | Fast web fuzzer written in Go  |
+
+
+
 
 <br>
+<h1 align="center"> Misc Tools </h1>
+<br>
+
+
+
 
 | Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
 | ---------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Oh My Zsh        | Misc     | https://github.com/ohmyzsh/ohmyzsh            | Framework for zsh terminal customization.                                                                                      |
+| Cmder            | Misc     | https://cmder.app/                            | Console emulator for Windows. You get almost all features of linux and much more all embedded in this nice piece of software. |
 | CyberChef        | Misc     | https://gchq.github.io/CyberChef/             | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ... |
 | Hash-Identify    | Misc     | https://github.com/blackploit/hash-identifier | Software to identify the different types of hashes used to encrypt data and especially passwords.                              |
 | dCode            | Misc     | https://www.dcode.fr/tools-list               | A online tool for identifying and decoding various ciphers                                                                     |
@@ -45,9 +62,21 @@
 | Audacity         | Misc     | https://www.audacityteam.org/download/        | An audio editor that can be used for waveform and spectrum steganography.                                                      |
 | prezto           | Misc     | https://github.com/sorin-ionescu/prezto       | Prezto is the configuration framework for Zsh                                                                                  |
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
-| Malzilla      | Misc      | https://malzilla.sourceforge.net/     | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers |
+| Malzilla         | Misc     | https://malzilla.sourceforge.net/             | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers                                        |
+| XOR Calculator   | Misc     | https://xor.pw/#                              | Browser tool for calculate XOR (biner, decimal, hexadecimal, ASCII) |
+| Warp             | Misc     | https://www.warp.dev/                         | MacOS terminal with many great features out of the box without any additional setup                                            |
+
+| John The ripper | Misc | https://www.openwall.com/john/ | Tool for cracking password hashes |
+
+
+
 
 <br>
+<h1 align="center"> OSINT Tools </h1>
+<br>
+
+
+
 
 | Name of tool       | Category | Link to the tool                               | Short Description                                                                                                                                                                        |
 | ------------------ | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,8 +103,21 @@
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                        |
+| Grepp            | OSINT    | https://grep.app/                            | Searches across git repos using normal keywords
+| WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                     |
+| Osintgram          | OSINT    | https://github.com/Datalux/Osintgram           |Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.This tool help to collect, analyze, and run reconnaissance.
+
+
+
+
+
 
 <br>
+<h1 align="center"> Forensics Tool</h1>
+<br>
+
+
+
 
 
 
@@ -95,9 +137,24 @@
 | Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| Arsenal Image Mounter | Forensics | https://arsenalrecon.com/downloads/ | Many Windows-based disk image mounting solutions mount the contents of disk images as shares or partitions, rather than complete (aka "physical or "real") disks. |
+| LogFileParser | Forensics | https://github.com/jschicht/LogFileParser | Parser for $LogFile on NTFS |
+| Mft2Csv | Forensics | https://github.com/jschicht/Mft2Csv | Extract $MFT record info and log it to a csv file. |
+| UsnJrnl2Csv | Forensics | https://github.com/jschicht/UsnJrnl2Csv | Parser for $UsnJrnl on NTFS |
+| NTFS Log Tracker | Forensics | https://sites.google.com/site/forensicnote/ntfs-log-tracker | This tool can parse $LogFile, $UsnJrnl:$J of NTFS and carve UsnJrnl record in multiple files.  |
+| Eric Zimmerman's Tools | Forensics | https://ericzimmerman.github.io/ | Forensic tools developed by Eric Zimmerman. |
+| ALEAPP | Forensics | https://github.com/abrignoni/ALEAPP | Android Logs Events And Protobuf Parser |
+| ILEAPP | Forensics | https://github.com/abrignoni/iLEAPP | iOS Logs, Events, And Plists Parser |
+| Autopsy | Forensics | https://www.autopsy.com/ | Powerful tool to analyze disk images. |
+
+
 
 
 <br>
+<h1 align="center"> Pwn Tools </h1>
+<br>
+
+
 
 | Name of tool | Category | Link to the tool                                            | Short Description                                                                                     |
 | ------------ | -------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -109,8 +166,18 @@
 | RustScan     | pwn      | https://github.com/RustScan/RustScan                        | The fast port scanner.                                                                                |
 | Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS | Shows the ways to escalate privileges on Linux                                                        |
 | Crackmapexec | pwn      | https://github.com/Porchetta-Industries/CrackMapExec        | post-exploitation tool that helps automate assessing the security of large Active Directory networks. |
+| Aircrack-ng  | pwn      | https://www.aircrack-ng.org/                                | A complete suite of tools to test WiFi network security.                                              |
+
+
+
+
 
 <br>
+<h1 align="center"> Cryptography Tools </h1>
+<br>
+
+
+
 
 | Name of tool  | Category | Link to the tool                            | Short Description                                                                                                     |
 | ------------- | -------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -119,34 +186,43 @@
 | Hash-Extender | Crypto   | https://github.com/iagox86/hash_extender    | Tool for performing hash length extension attacks                                                                     |
 | Featherduster | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                                                                             |
 | Hashkill      | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                                                                                       |
+| CaptfEncoder  | Crypto   | https://github.com/guyoung/CaptfEncoder     | CaptfEncoder is a network security tool suite, cryptography, and asymmetric encryption.    				 |
 | Yafu          | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                                                                                      |
 | Factordb      | Crypto   | http://factordb.com/                        | Automated Integer Factorization.                                                                                      |
 | Cointracking  | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.                                     |
 | Ciphers       | Crypto   | [https://rumkin.com/tools/cipher/]          | A collection of different ciphers tools to encrypt/decrypt messages.                                                  |
 | StegoCracker  | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
 | PkCrack       | Crypto   | https://github.com/keyunluo/pkcrack         | A tool for breaking PkZip-encryption.                                                                                 |
+| XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
-|Patator   | Crypto |https://github.com/lanjelot/patator | Patator is a multi-purpose brute-forcer, with a modular design.|
+|Patator        | Crypto |https://github.com/lanjelot/patator            | Patator is a multi-purpose brute-forcer, with a modular design.|
+
 
 <br>
+<h1 align="center"> Reverse Engineering Tools </h1>
+<br>
 
-
-| Name of tool     | Category            | Link to the tool                            | Short Description                                                                                                                              |
-|--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
-| Z3 Solver        | Reverse Engineering | https://github.com/Z3Prover/z3              | SAT Solver for automating finding value with multiple constraint checks                                                                        |
-| cutter           | Reverse Engineering | https://github.com/rizinorg/cutter          | Reverse Engineering platform (disassembler)                                                                                                    |
-| IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/               | Tool for disassembling a binary file and also a versatile debugger                                                                             |
-| gdb              | Reverse Engineering | https://www.sourceware.org/gdb/             | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                |
-| Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA      |
-| Java Decompilers           | Reverse Engineering | http://www.javadecompilers.com/ | An online decompiler for Java and Android APKs      |
-| ScyllaHide           | Reverse Engineering | https://github.com/x64dbg/ScyllaHide | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.     |
-| WinHex | Reverse Engineering | https://x-ways.net/winhex/ | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
-| Androguard | Reverse Engineering | https://github.com/androguard/androguard | It is a reverse engineering for Android applications. |
-| ImHex | Reverse Engineering | https://github.com/WerWolv/ImHex | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing. |
-| BinUtils | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code. |
-| Binary Ninja | Reverse Engineering | https://binary.ninja/ | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis. |
-| Hashcat      | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
-| Ciphey           | Reverse Engineering       | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
+| Name of tool     | Category            | Link to the tool                                   | Short Description                                                                                                                                                                                           |
+| ---------------- | ------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Z3 Solver        | Reverse Engineering | https://github.com/Z3Prover/z3                     | SAT Solver for automating finding value with multiple constraint checks                                                                                                                                     |
+| cutter           | Reverse Engineering | https://github.com/rizinorg/cutter                 | Reverse Engineering platform (disassembler)                                                                                                                                                                 |
+| IDA              | Reverse Engineering | https://hex-rays.com/ida-pro/                      | Tool for disassembling a binary file and also a versatile debugger                                                                                                                                          |
+| gdb              | Reverse Engineering | https://www.sourceware.org/gdb/                    | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                                                                             |
+| Ciphey           | Docker              | https://github.com/Ciphey/Ciphey                   | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.                                                                                              |
+| Ghidra           | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra   | It is a reverse engineering framework made by the NSA                                                                                                                                                       |
+| Java Decompilers | Reverse Engineering | http://www.javadecompilers.com/                    | An online decompiler for Java and Android APKs                                                                                                                                                              |
+| ScyllaHide       | Reverse Engineering | https://github.com/x64dbg/ScyllaHide               | ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging.                                                                              |
+| WinHex           | Reverse Engineering | https://x-ways.net/winhex/                         | WinHex is an advanced tool for everyday and emergency use: inspect and edit all kinds of files, recover deleted files or lost data from hard drives with corrupt file systems or from digital camera cards. |
+| Androguard       | Reverse Engineering | https://github.com/androguard/androguard           | It is a reverse engineering for Android applications.                                                                                                                                                       |
+| ImHex            | Reverse Engineering | https://github.com/WerWolv/ImHex                   | A Hex Editor for Reverse Engineers, And Programmers. Support useful features for Hex editing.                                                                                                               |
+| BinUtils         | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code.                           |
+| Binary Ninja     | Reverse Engineering | https://binary.ninja/                              | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis.           |
+| Hashcat          | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
+| Hiew             | Reverse Engineering |  http://www.hiew.ru/                               | Hiew is a binary file editor focused on working with code. |
+| pe-bear          | Reverse Engineering |  https://github.com/hasherezade/pe-bear            | Portable Executable reversing tool with a friendly GUI |
+| BARF             | Reverse Engineering |  https://github.com/programa-stic/barf-project     | BARF is an open source binary analysis framework that aims to support a wide range of binary code analysis tasks that are common in the information security discipline.                                      |
+| Compiler Explorer             | Reverse Engineering |  https://github.com/compiler-explorer/compiler-explorer     | Compiler Explorer is an interactive compiler exploration website.                                      |
+| Decompiler Explorer             | Reverse Engineering |  https://github.com/decompiler-explorer/decompiler-explorer     | Decompiler Explorer is a web front-end to a number of decompilers. This web service lets you compare the output of different decompilers on small executables. In other words: It's basically the same thing as Matt Godbolt's awesome Compiler Explorer, but in reverse.                                      |
 
 <br>
 
