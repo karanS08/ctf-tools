@@ -87,7 +87,6 @@
 | Pugalarasan             | https://github.com/0xlittleboy        |
 | Duyen Le                | https://github.com/duyenle1312        |
 | Siddak Bagga            | https://github.com/siddakbagga13      |
-| Aniket Dubey            | https://github.com/Aniket1026         |
 | Hyun Yi                 | https://github.com/hyuunnn            |
 | Aditya                  | https://github.com/TheAdityaGupta     |
 | Yasrib Proyas           | https://github.com/Proyas21           |
@@ -99,3 +98,4 @@
 | Ayush kumar             | https://github.com/Ayush4345          |
 |Shivank Singh            | https://github.com/nasablackberry     |
 | Piyush                  | https://github.com/piyushkdas0611     |
+| Aniket Dubey            | https://github.com/Aniket1026         |
