@@ -30,6 +30,7 @@
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
 | Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
+| ffuf          | Web     | https://github.com/ffuf/ffuf                  | Fast web fuzzer written in Go  |
 
 <br>
 
