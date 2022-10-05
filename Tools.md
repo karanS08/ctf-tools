@@ -204,4 +204,4 @@
 | Hashcat      | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
 | Ciphey           | Reverse Engineering       | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
 | GDB           | Reverse Engineering       | https://www.sourceware.org/gdb/download/         | You can download the most recent official release of GDB from either Project GNU's FTP server, or Red Hat's sources site.
-
+| JD-GUI           | Reverse Engineering       | http://java-decompiler.github.io/#jd-gui-overview        | The “Java Decompiler project” aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.
