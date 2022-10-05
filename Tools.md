@@ -30,6 +30,7 @@
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
 | Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
+| ffuf          | Web     | https://github.com/ffuf/ffuf                  | Fast web fuzzer written in Go  |
 
 <br>
 
@@ -148,4 +149,5 @@
 | Binary Ninja | Reverse Engineering | https://binary.ninja/ | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis. |
 | Hashcat      | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
 | Ciphey           | Reverse Engineering       | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
+| GDB           | Reverse Engineering       | https://www.sourceware.org/gdb/download/         | You can download the most recent official release of GDB from either Project GNU's FTP server, or Red Hat's sources site.
 
