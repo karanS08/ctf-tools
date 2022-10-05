@@ -51,6 +51,7 @@
 | Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
 | ---------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Oh My Zsh        | Misc     | https://github.com/ohmyzsh/ohmyzsh            | Framework for zsh terminal customization.                                                                                      |
+| Cmder            | Misc     | https://cmder.app/                            | Console emulator for Windows. You get almost all features of linux and much more all embedded in this nice piece of software. |
 | CyberChef        | Misc     | https://gchq.github.io/CyberChef/             | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ... |
 | Hash-Identify    | Misc     | https://github.com/blackploit/hash-identifier | Software to identify the different types of hashes used to encrypt data and especially passwords.                              |
 | dCode            | Misc     | https://www.dcode.fr/tools-list               | A online tool for identifying and decoding various ciphers                                                                     |
