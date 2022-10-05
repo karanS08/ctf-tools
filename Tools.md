@@ -51,6 +51,7 @@
 | Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
 | ---------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Oh My Zsh        | Misc     | https://github.com/ohmyzsh/ohmyzsh            | Framework for zsh terminal customization.                                                                                      |
+| Cmder            | Misc     | https://cmder.app/                            | Console emulator for Windows. You get almost all features of linux and much more all embedded in this nice piece of software. |
 | CyberChef        | Misc     | https://gchq.github.io/CyberChef/             | Browser tool for quickly testing various encoding/encryption operations on a given input, such as base64, XOR, hexdumping, ... |
 | Hash-Identify    | Misc     | https://github.com/blackploit/hash-identifier | Software to identify the different types of hashes used to encrypt data and especially passwords.                              |
 | dCode            | Misc     | https://www.dcode.fr/tools-list               | A online tool for identifying and decoding various ciphers                                                                     |
@@ -132,6 +133,7 @@
 | Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| Autopsy | Forensics | https://www.autopsy.com/ | Powerful tool to analyze disk images. |
 
 
 
@@ -151,6 +153,7 @@
 | RustScan     | pwn      | https://github.com/RustScan/RustScan                        | The fast port scanner.                                                                                |
 | Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS | Shows the ways to escalate privileges on Linux                                                        |
 | Crackmapexec | pwn      | https://github.com/Porchetta-Industries/CrackMapExec        | post-exploitation tool that helps automate assessing the security of large Active Directory networks. |
+| Aircrack-ng  | pwn      | https://www.aircrack-ng.org/                                | A complete suite of tools to test WiFi network security.                                              |
 
 
 
@@ -202,3 +205,4 @@
 | Binary Ninja     | Reverse Engineering | https://binary.ninja/                              | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis.           |
 | Hashcat          | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
 | Hiew             | Reverse Engineering |  http://www.hiew.ru/                               | Hiew is a binary file editor focused on working with code. |
+| BARF             | Reverse Engineering |  https://github.com/programa-stic/barf-project     | BARF is an open source binary analysis framework that aims to support a wide range of binary code analysis tasks that are common in the information security discipline.                                      |

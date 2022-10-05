@@ -61,6 +61,7 @@
 | Kavya                   | https://github.com/kavyabhat02        | 
 | NatthawatS              | https://github.com/NatthawatS         | 
 | Nikhil Mahana           | https://github.com/NikhilMahana       |
+| Shivam Pipalwa          | https://github.com/shivampipalwa      |
 | Kavya                   | https://github.com/kavyabhat02        |
 | Mayur Jethwa            | https://github.com/mayyyur            |
 | Hussain Lohawala        | https://github.com/H9660              |
@@ -85,4 +86,7 @@
 | Duyen Le                | https://github.com/duyenle1312        |
 | Siddak Bagga            | https://github.com/siddakbagga13      |
 | Aditya | https://github.com/TheAdityaGupta      |
-| Aditya | https://github.com/TheAdityaGupta      |
+| Yasrib Proyas           | https://github.com/Proyas21           |
+| Devanshu                | https://github.com/Devanshu2310       |
+| Matthew Utin            | https://github.com/mattu08            |
+
