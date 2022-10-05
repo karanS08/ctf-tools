@@ -50,6 +50,7 @@
 | Chinmay                 | https://github.com/chinmayayy         |
 | Arefat H.               | https://github.com/arefathi           |
 | Nishant                 | https://github.com/Nishantjain10      |
+| Nishant                 | https://github.com/Ordinary-droid
 | fernandoleira           | https://github.com/fernandoleira      |
 | Chirag Mathur           | https://github.com/mchirag2002        |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
@@ -91,4 +92,5 @@
 | Devanshu                | https://github.com/Devanshu2310       |
 | Matthew Utin            | https://github.com/mattu08            |
 | timoransky              | https://github.com/timoransky         |
+| Ayush kumar             | https://github.com/Ayush4345          |
 
