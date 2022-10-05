@@ -64,6 +64,7 @@
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
 | Malzilla         | Misc     | https://malzilla.sourceforge.net/             | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers                                        |
 | XOR Calculator   | Misc     | https://xor.pw/#                              | Browser tool for calculate XOR (biner, decimal, hexadecimal, ASCII) |
+| Warp             | Misc     | https://www.warp.dev/                         | MacOS terminal with many great features out of the box without any additional setup                                            |
 
 | John The ripper | Misc | https://www.openwall.com/john/ | Tool for cracking password hashes |
 
@@ -102,7 +103,9 @@
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                        |
-
+| Grepp            | OSINT    | https://grep.app/                            | Searches across git repos using normal keywords
+| WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                     |
+| Osintgram          | OSINT    | https://github.com/Datalux/Osintgram           |Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.This tool help to collect, analyze, and run reconnaissance.
 
 
 
