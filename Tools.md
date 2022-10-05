@@ -130,6 +130,7 @@
 | Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| Autopsy | Forensics | https://www.autopsy.com/ | Powerful tool to analyze disk images. |
 
 
 

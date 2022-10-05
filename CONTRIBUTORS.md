@@ -61,6 +61,7 @@
 | Kavya                   | https://github.com/kavyabhat02        | 
 | NatthawatS              | https://github.com/NatthawatS         | 
 | Nikhil Mahana           | https://github.com/NikhilMahana       |
+| Shivam Pipalwa          | https://github.com/shivampipalwa      |
 | Kavya                   | https://github.com/kavyabhat02        |
 | Mayur Jethwa            | https://github.com/mayyyur            |
 | Hussain Lohawala        | https://github.com/H9660              |
