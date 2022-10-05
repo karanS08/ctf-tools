@@ -130,6 +130,14 @@
 | Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| Arsenal Image Mounter | Forensics | https://arsenalrecon.com/downloads/ | Many Windows-based disk image mounting solutions mount the contents of disk images as shares or partitions, rather than complete (aka "physical or "real") disks. |
+| LogFileParser | Forensics | https://github.com/jschicht/LogFileParser | Parser for $LogFile on NTFS |
+| Mft2Csv | Forensics | https://github.com/jschicht/Mft2Csv | Extract $MFT record info and log it to a csv file. |
+| UsnJrnl2Csv | Forensics | https://github.com/jschicht/UsnJrnl2Csv | Parser for $UsnJrnl on NTFS |
+| NTFS Log Tracker | Forensics | https://sites.google.com/site/forensicnote/ntfs-log-tracker | This tool can parse $LogFile, $UsnJrnl:$J of NTFS and carve UsnJrnl record in multiple files.  |
+| Eric Zimmerman's Tools | Forensics | https://ericzimmerman.github.io/ | Forensic tools developed by Eric Zimmerman. |
+| ALEAPP | Forensics | https://github.com/abrignoni/ALEAPP | Android Logs Events And Protobuf Parser |
+| ILEAPP | Forensics | https://github.com/abrignoni/iLEAPP | iOS Logs, Events, And Plists Parser |
 
 
 
@@ -200,3 +208,4 @@
 | Binary Ninja     | Reverse Engineering | https://binary.ninja/                              | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis.           |
 | Hashcat          | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
 | Hiew             | Reverse Engineering |  http://www.hiew.ru/                               | Hiew is a binary file editor focused on working with code. |
+| pe-bear          | Reverse Engineering |  https://github.com/hasherezade/pe-bear            | Portable Executable reversing tool with a friendly GUI |
