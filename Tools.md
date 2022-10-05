@@ -35,8 +35,8 @@
 | Chrome DevTools | Web      | https://developer.chrome.com/docs/devtools/                    | Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
-| Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
-| ffuf          | Web     | https://github.com/ffuf/ffuf                  | Fast web fuzzer written in Go  |
+| Raccoon         | Web      | https://github.com/evyatarmeged/Raccoon                        | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
+| ffuf            | Web      | https://github.com/ffuf/ffuf                                   | Fast web fuzzer written in Go  |
 
 
 
@@ -133,7 +133,16 @@
 | Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| Arsenal Image Mounter | Forensics | https://arsenalrecon.com/downloads/ | Many Windows-based disk image mounting solutions mount the contents of disk images as shares or partitions, rather than complete (aka "physical or "real") disks. |
+| LogFileParser | Forensics | https://github.com/jschicht/LogFileParser | Parser for $LogFile on NTFS |
+| Mft2Csv | Forensics | https://github.com/jschicht/Mft2Csv | Extract $MFT record info and log it to a csv file. |
+| UsnJrnl2Csv | Forensics | https://github.com/jschicht/UsnJrnl2Csv | Parser for $UsnJrnl on NTFS |
+| NTFS Log Tracker | Forensics | https://sites.google.com/site/forensicnote/ntfs-log-tracker | This tool can parse $LogFile, $UsnJrnl:$J of NTFS and carve UsnJrnl record in multiple files.  |
+| Eric Zimmerman's Tools | Forensics | https://ericzimmerman.github.io/ | Forensic tools developed by Eric Zimmerman. |
+| ALEAPP | Forensics | https://github.com/abrignoni/ALEAPP | Android Logs Events And Protobuf Parser |
+| ILEAPP | Forensics | https://github.com/abrignoni/iLEAPP | iOS Logs, Events, And Plists Parser |
 | Autopsy | Forensics | https://www.autopsy.com/ | Powerful tool to analyze disk images. |
+
 
 
 
@@ -181,7 +190,7 @@
 | PkCrack       | Crypto   | https://github.com/keyunluo/pkcrack         | A tool for breaking PkZip-encryption.                                                                                 |
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
-|Patator   | Crypto |https://github.com/lanjelot/patator | Patator is a multi-purpose brute-forcer, with a modular design.|
+|Patator        | Crypto |https://github.com/lanjelot/patator            | Patator is a multi-purpose brute-forcer, with a modular design.|
 
 
 <br>
@@ -205,4 +214,6 @@
 | Binary Ninja     | Reverse Engineering | https://binary.ninja/                              | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis.           |
 | Hashcat          | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
 | Hiew             | Reverse Engineering |  http://www.hiew.ru/                               | Hiew is a binary file editor focused on working with code. |
+| pe-bear          | Reverse Engineering |  https://github.com/hasherezade/pe-bear            | Portable Executable reversing tool with a friendly GUI |
 | BARF             | Reverse Engineering |  https://github.com/programa-stic/barf-project     | BARF is an open source binary analysis framework that aims to support a wide range of binary code analysis tasks that are common in the information security discipline.                                      |
+
