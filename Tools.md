@@ -195,7 +195,7 @@
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
 |Patator        | Crypto |https://github.com/lanjelot/patator            | Patator is a multi-purpose brute-forcer, with a modular design.|
-
+|rot 13|         | Crypto  | https://rot13.com/                           | Used to encode/decode rot1 to rot26.
 
 <br>
 <h1 align="center"> Reverse Engineering Tools </h1>
