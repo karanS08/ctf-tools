@@ -127,6 +127,7 @@
 | PkCrack       | Crypto   | https://github.com/keyunluo/pkcrack         | A tool for breaking PkZip-encryption.                                                                                 |
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
 |Patator   | Crypto |https://github.com/lanjelot/patator | Patator is a multi-purpose brute-forcer, with a modular design.|
+| Ophcrack | Crypto | https://ophcrack.sourceforge.io/ | Windows password cracker based on rainbow tables. |
 
 <br>
 
