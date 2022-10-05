@@ -148,3 +148,17 @@
 | Hashcat      | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
 | Ciphey           | Reverse Engineering       | https://github.com/Ciphey/Ciphey            | Tool to automaticaaly decrypt encryptions without knowing the key or cipher, decode encoding and crack hashes.
 
+<br>
+
+| Name of Tool   | Category      | Link to the tool                                        | Short Description                                            |
+|----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
+| John the Jumbo | Bruteforcer   | https://github.com/openwall/john                        | Community advance version of John the Ripper                 |
+| DLL Injector   | Exploits      | https://github.com/OpenSecurityResearch/dllinjector     | Injects dlls in processes                                    |
+| Creddump       | Forensics     | https://github.com/moyix/creddump                       | Dump Windows credentials                                     |
+| Exif Tool      | Forensics     | https://exiftool.org/                                   | Read, write and edit file metadata                           |
+| IDA pro        | Reversing     | https://www.hex-rays.com/ida-pro/                       | Most used Reversing software                                 |
+| Hopper         | Reversing     | https://www.hopperapp.com/                              | Reverse engineering tool (disassembler) for OSX and Linux    |
+| Steganabara    | Steganography | https://www.openhub.net/p/steganabara                   | Tool for stegano analysis written in Java                    |
+| Stegbreak      | Steganography | https://linux.die.net/man/1/stegbreak                   | Launches brute-force dictionary attacks on JPG image         |
+| Steghide       | Steganography | https://steghide.sourceforge.net/                       | Hide data in various kind of images                          |
+| Hackbar        | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation                      |
