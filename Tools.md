@@ -130,6 +130,7 @@
 | Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| Autopsy | Forensics | https://www.autopsy.com/ | Powerful tool to analyze disk images. |
 
 
 
@@ -149,6 +150,7 @@
 | RustScan     | pwn      | https://github.com/RustScan/RustScan                        | The fast port scanner.                                                                                |
 | Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS | Shows the ways to escalate privileges on Linux                                                        |
 | Crackmapexec | pwn      | https://github.com/Porchetta-Industries/CrackMapExec        | post-exploitation tool that helps automate assessing the security of large Active Directory networks. |
+| Aircrack-ng  | pwn      | https://www.aircrack-ng.org/                                | A complete suite of tools to test WiFi network security.                                              |
 
 
 
