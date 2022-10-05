@@ -50,14 +50,21 @@
 
 Steps for adding your name in the CONTRIBUTERS.md File
 
-    1. Fork this repo
-    2. Edit `Tools.md` file 
-    3. Add Name of tool , link to the tool , a short  explanation of your favorite tool in the table .
-    4. Edit `CONTRIBUTORS.md` file
-    5. Add your Name also link your github profile seprated by a | (pipe).
+    1. Fork this repo.
+    2. Copy the url by clicking the code button which is just below the settings button.
+    3. Clone the repository to your local device.
+    4. Command to clone using git - git clone 'URL of the repository'
+    5. Create a seperate branch using - git checkout -b <BranchName>
+    6. Edit `Tools.md` file 
+    7. Add Name of tool, link to the tool, and a short explanation of your favorite tool in the table.
+    8. Edit `CONTRIBUTORS.md` file
+    9. Add your Name also link your github profile seprated by a | (pipe).
         eg. | Karan | https://github.com/karanS08 | 
-    6. Make your pull request 🙌🏽.
-    7. Don't forget to star the repo 🙂.
+    10. Stage your changes using - git add
+    11. Commit your changes using - git commit -m "commit message goes here"
+    12. Push your changes to the seperate branch created in step 5.
+    13. Make your pull request 🙌🏽.
+    14. Don't forget to star the repo 🙂.
 
 
 ----

@@ -1,3 +1,9 @@
+<h1 align="center"> Web Tools </h1>
+<br>
+
+
+
+   
 | Name of tool    | Category | Link to the tool                                               | Short Discription                                                                                                                                                                                                                                                                                                                                              |
 | --------------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Gobuster        | Web      | https://github.com/OJ/gobuster                                 | Bruteforce tool for finding directories and files in webserver                                                                                                                                                                                                                                                                                                 |
@@ -30,8 +36,17 @@
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
 | Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
+| ffuf          | Web     | https://github.com/ffuf/ffuf                  | Fast web fuzzer written in Go  |
+
+
+
 
 <br>
+<h1 align="center"> Misc Tools </h1>
+<br>
+
+
+
 
 | Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
 | ---------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -45,9 +60,18 @@
 | Audacity         | Misc     | https://www.audacityteam.org/download/        | An audio editor that can be used for waveform and spectrum steganography.                                                      |
 | prezto           | Misc     | https://github.com/sorin-ionescu/prezto       | Prezto is the configuration framework for Zsh                                                                                  |
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
-| Malzilla      | Misc      | https://malzilla.sourceforge.net/     | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers |
+| Malzilla         | Misc     | https://malzilla.sourceforge.net/             | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers                                        |
+| XOR Calculator   | Misc     | https://xor.pw/#                              | Browser tool for calculate XOR (biner, decimal, hexadecimal, ASCII)                                                            |
+
+
+
 
 <br>
+<h1 align="center"> OSINT Tools </h1>
+<br>
+
+
+
 
 | Name of tool       | Category | Link to the tool                               | Short Description                                                                                                                                                                        |
 | ------------------ | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +99,18 @@
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                        |
 
+
+
+
+
+
+
 <br>
+<h1 align="center"> Forensics Tool</h1>
+<br>
+
+
+
 
 
 
@@ -97,7 +132,12 @@
 | fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
 
 
+
 <br>
+<h1 align="center"> Pwn Tools </h1>
+<br>
+
+
 
 | Name of tool | Category | Link to the tool                                            | Short Description                                                                                     |
 | ------------ | -------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -110,7 +150,16 @@
 | Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS | Shows the ways to escalate privileges on Linux                                                        |
 | Crackmapexec | pwn      | https://github.com/Porchetta-Industries/CrackMapExec        | post-exploitation tool that helps automate assessing the security of large Active Directory networks. |
 
+
+
+
+
 <br>
+<h1 align="center"> Cryptography Tools </h1>
+<br>
+
+
+
 
 | Name of tool  | Category | Link to the tool                            | Short Description                                                                                                     |
 | ------------- | -------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -125,9 +174,13 @@
 | Ciphers       | Crypto   | [https://rumkin.com/tools/cipher/]          | A collection of different ciphers tools to encrypt/decrypt messages.                                                  |
 | StegoCracker  | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
 | PkCrack       | Crypto   | https://github.com/keyunluo/pkcrack         | A tool for breaking PkZip-encryption.                                                                                 |
-| XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher. 
+| XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.
+| XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
+|Patator   | Crypto |https://github.com/lanjelot/patator | Patator is a multi-purpose brute-forcer, with a modular design.|
 
 
+<br>
+<h1 align="center"> Reverse Engineering Tools </h1>
 <br>
 
 | Name of tool     | Category            | Link to the tool                                   | Short Description                                                                                                                                                                                           |
@@ -146,4 +199,4 @@
 | BinUtils         | Reverse Engineering | http://www.gnu.org/software/binutils/binutils.html | The GNU Binary Utilities, or Binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code.                           |
 | Binary Ninja     | Reverse Engineering | https://binary.ninja/                              | It has the ability to deconstruct binary files and show the results in linear or graph representations. It automatically analyses the code in-depth, producing data that aids in binary analysis.           |
 | Hashcat          | Reverse Engineering | https://hashcat.net/hashcat/                       | hashcat is the world's fastest and most advanced password recovery utility. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS.                            |
-| Hiew     | Reverse Engineering  |  http://www.hiew.ru/     | Hiew is a binary file editor focused on working with code. |
+| Hiew             | Reverse Engineering |  http://www.hiew.ru/                               | Hiew is a binary file editor focused on working with code. |
