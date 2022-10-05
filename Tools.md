@@ -224,3 +224,17 @@
 | Compiler Explorer             | Reverse Engineering |  https://github.com/compiler-explorer/compiler-explorer     | Compiler Explorer is an interactive compiler exploration website.                                      |
 | Decompiler Explorer             | Reverse Engineering |  https://github.com/decompiler-explorer/decompiler-explorer     | Decompiler Explorer is a web front-end to a number of decompilers. This web service lets you compare the output of different decompilers on small executables. In other words: It's basically the same thing as Matt Godbolt's awesome Compiler Explorer, but in reverse.                                      |
 
+<br>
+
+| Name of Tool    | Category      | Link to the tool                                        | Short Description                                            |
+|-----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
+| John the Jumbo  | Bruteforcer   | https://github.com/openwall/john                        | Community advance version of John the Ripper                 |
+| Twigonometry    | Bruteforcer   | https://github.com/Twigonometry/CTF-Tools               | Scripts for CTFs and pentest practice                        |
+| Hashcat         | Bruteforcer   | https://hashcat.net/hashcat/                            | Password Cracker                                             |
+| John the Ripper | Bruteforcer   | https://www.openwall.com/john/                          | Password Cracker                                             |
+| Nozzlr          | Bruteforcer   | https://github.com/intrd/nozzlr                         |  Nozzlr is a bruteforce framework, trully modular and script-friendly |
+| Ophcrack        | Bruteforcer   | https://ophcrack.sourceforge.io/                        |  Windows password cracker based on rainbow tables            |
+| Patator         | Bruteforcer   | https://github.com/lanjelot/patator                     |  Patator is a multi-purpose brute-forcer, with a modular design |
+| SCWF            | Bruteforcer   | https://github.com/DaWouw/SCWF      | CTF tool for identifying, brute forcing and decoding encryption schemes in an automated way |
+| Stegbrute       | Bruteforcer   | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool |
+| Outguess        | Bruteforcer   | https://github.com/resurrecting-open-source-projects/outguess | Useful in forensics investigations and security actions |

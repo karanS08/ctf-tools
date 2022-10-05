@@ -11,7 +11,7 @@
 | zzril                   | https://github.com/zzril              |
 | Samuuuh                 | https://github.com/Samuuuh            |
 | Karan                   | https://github.com/Ye8i               |
-| Thanmai Sai                   | https://github.com/thanmaisai              |
+| Thanmai Sai             | https://github.com/thanmaisai         |
 | Arn                     | https://github.com/arn355             |
 | Anant Kumar Mathur      | https://github.com/anant2003          |
 | Skul1CrowN              | https://github.com/Skul1CrowN         |
@@ -51,7 +51,7 @@
 | Chinmay                 | https://github.com/chinmayayy         |
 | Arefat H.               | https://github.com/arefathi           |
 | Nishant                 | https://github.com/Nishantjain10      |
-| Nishant                 | https://github.com/Ordinary-droid
+| Nishant                 | https://github.com/Ordinary-droid     |
 | fernandoleira           | https://github.com/fernandoleira      |
 | Chirag Mathur           | https://github.com/mchirag2002        |
 | FluxCapacitor2          | https://github.com/FluxCapacitor2     |
@@ -96,4 +96,4 @@
 | Bruno Castro            | https://github.com/brunolagoa         |
 | timoransky              | https://github.com/timoransky         |
 | Ayush kumar             | https://github.com/Ayush4345          |
-
+| Piyush                  | https://github.com/piyushkdas0611     |
