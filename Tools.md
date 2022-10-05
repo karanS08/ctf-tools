@@ -85,17 +85,18 @@
 | Exiftool     | Forensics | https://github.com/exiftool           | Tool for looking into meta data and other useful information related to a particular image file |
 | Binwalk      | Forensics | https://github.com/ReFirmLabs/binwalk | Tool for searching a given binary image for embedded files and executable code.                 |
 | Forensically | Forensics  | https://29a.ch/photo-forensics/#forensic-magnifier | Forensically is a set of free tools for digital image forensics.                  |
-| Aperisolve | Forensics | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
+| Aperisolve   | Forensics | https://www.aperisolve.com/ | Its offerings, which span the gamut of image analysis, include Steghide, Binwalk, Exiftool, and many others. |
 | DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
-| Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
+| Dislocker    |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
 | Firmware-mod-kit | Forensics | https://code.google.com/p/firmware-mod-kit/ | Tools for firmware packing/unpacking. |
-| StegOnline | Forensics | https://stegonline.georgeom.net/ | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
-| Sherloq | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
-| Lookyloo | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
-| pngtools | Forensics | https://github.com/mikalstill/pngtools | An open-source tool to dissect pngs. |
-| Creddump | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
+| StegOnline   | Forensics | https://stegonline.georgeom.net/ | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve. |
+| Sherloq      | Forensics | https://github.com/GuidoBartoli/sherloq | An open-source digital image forensic toolset |
+| Lookyloo     | Forensics | https://lookyloo.circl.lu/ | Webapp allowing to scrape a website and then displays a tree of domains calling each other |   
+| pngtools     | Forensics | https://github.com/mikalstill/pngtools | An open-source tool to dissect pngs. |
+| Creddump     | Forensics | https://github.com/moyix/creddump | Dump windows credentials |
 | Network Miner | Forensics | http://www.netresec.com/?page=NetworkMiner | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
-| fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |
+| fcrackzip | Forensics | https://github.com/hyc/fcrackzip | Brute-force guesses a zip password (for passwords <7 characters or so) |s a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
+| CyberChef | Forensics | https://gchq.github.io/CyberChef/ | Tools for extract all data include encryption, forensic, etc. |
 
 
 <br>
