@@ -31,6 +31,14 @@
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
 | Raccoon      | Web      | https://github.com/evyatarmeged/Raccoon       | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
 
+| Brandmark      | Web      | https://app.brandmark.io/v3/       | A website to create your brand logo in minutes. |
+
+| Cloudconvert      | Web      | https://cloudconvert.com/     | CloudConvert is an online file converter. supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.|
+
+| Keybr      | Web      | https://www.keybr.com/   | A website to improve your typing skill.  |
+
+
+
 <br>
 
 | Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
