@@ -66,7 +66,7 @@
 | XOR Calculator   | Misc     | https://xor.pw/#                              | Browser tool for calculate XOR (biner, decimal, hexadecimal, ASCII) |
 | Warp             | Misc     | https://www.warp.dev/                         | MacOS terminal with many great features out of the box without any additional setup                                            |
 
-| John The ripper | Misc | https://www.openwall.com/john/ | Tool for cracking password hashes |
+
 
 
 
@@ -186,10 +186,7 @@
 | Hash-Extender | Crypto   | https://github.com/iagox86/hash_extender    | Tool for performing hash length extension attacks                                                                     |
 | Featherduster | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                                                                             |
 | Hashkill      | Crypto   | https://github.com/gat3way/hashkill         | hashkill password recovery tool                                                                                       |
-| CaptfEncoder  | Crypto   | https://github.com/guyoung/CaptfEncoder     | CaptfEncoder is a network security tool suite, cryptography, and asymmetric encryption.    				 |
-| Yafu          | Crypto   | http://sourceforge.net/projects/yafu/       | Automated integer factorization.                                                                                      |
-| Factordb      | Crypto   | http://factordb.com/                        | Automated Integer Factorization.                                                                                      |
-| Cointracking  | Crypto   | [https://cryptomaniaks.com/]                | Allows you to import all of your historical transaction data manually or via API.                                     |
+| CaptfEncoder  | Crypto   | https://github.com/guyoung/CaptfEncoder     | CaptfEncoder is a network security tool suite, cryptography, and asymmetric encryption.    				 |                     |
 | Ciphers       | Crypto   | [https://rumkin.com/tools/cipher/]          | A collection of different ciphers tools to encrypt/decrypt messages.                                                  |
 | StegoCracker  | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
 | PkCrack       | Crypto   | https://github.com/keyunluo/pkcrack         | A tool for breaking PkZip-encryption.                                                                                 |
@@ -224,10 +221,14 @@
 | Compiler Explorer             | Reverse Engineering |  https://github.com/compiler-explorer/compiler-explorer     | Compiler Explorer is an interactive compiler exploration website.                                      |
 | Decompiler Explorer             | Reverse Engineering |  https://github.com/decompiler-explorer/decompiler-explorer     | Decompiler Explorer is a web front-end to a number of decompilers. This web service lets you compare the output of different decompilers on small executables. In other words: It's basically the same thing as Matt Godbolt's awesome Compiler Explorer, but in reverse.                                      |
 
+
+<br>
+<h1 align="center"> Brute Forcing Tools  </h1>
 <br>
 
 | Name of Tool    | Category      | Link to the tool                                        | Short Description                                            |
 |-----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
+| John The ripper | Bruteforcer   | https://www.openwall.com/john/                          | Tool for cracking password hashes |
 | John the Jumbo  | Bruteforcer   | https://github.com/openwall/john                        | Community advance version of John the Ripper                 |
 | Twigonometry    | Bruteforcer   | https://github.com/Twigonometry/CTF-Tools               | Scripts for CTFs and pentest practice                        |
 | Hashcat         | Bruteforcer   | https://hashcat.net/hashcat/                            | Password Cracker                                             |
