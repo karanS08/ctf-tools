@@ -251,3 +251,4 @@
 | Stegbrute       | Bruteforcer | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool                                                          |
 | THC Hydra       | Bruteforcer | https://sectools.org/tool/hydra/                                              | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
 | Twigonometry    | Bruteforcer | https://github.com/Twigonometry/CTF-Tools                                     | Scripts for CTFs and pentest practice                                                       |
+| Hydra           | Bruteforcer   | https://www.kali.org/tools/hydra/                       | It is a parallelized login cracker which supports numerous protocols to attack
