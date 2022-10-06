@@ -96,6 +96,9 @@
 | Bruno Castro            | https://github.com/brunolagoa         |
 | timoransky              | https://github.com/timoransky         |
 | Ayush kumar             | https://github.com/Ayush4345          |
-|Shivank Singh            | https://github.com/nasablackberry     |
+| Shivank Singh           | https://github.com/nasablackberry     |
 | Piyush                  | https://github.com/piyushkdas0611     |
 | Debopam Gupta           | https://github.com/w3dg               |
+| Nayeem Islam            | https://github.com/nayeems3c          |
+| Atul Narayan            | https://github.com/atulnarayan16      |
+| Aniket Dubey            | https://github.com/Aniket1026         |
