@@ -31,7 +31,8 @@
 | Aline           | Web      | https://github.com/ferreiraklet/Aline                          | A tool that simply downloads files of a certain type, located on a certain domain and indexed by Google.                                                                                                                                                                                                                                                       |
 | WebHackUrls     | Web      | https://github.com/mathis2001/WebHackUrls                      | A tool for URl recon with filter by keyword and saving results to file.                                                                                                                                                                                                                                                                                        |
 | SimilarWeb      | Web      | https://www.similarweb.com/                                    | A tool that provides detailed website traffic analysis                                                                                                                                                                                                                                                                                                         |
-| XSSer           | Web      | https://xsser.03c8.net/                                        | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.                                                                                                     |
+| XSSer           | Web      | https://xsser.03c8.net/                                        | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.   
+| XSS Hunter           | Web      | https://xsshunter.com/                                        | XSS Hunter allows you to find all kinds of cross-site scripting vulnerabilities, including the often-missed blind XSS. The service works by hosting specialized XSS probes which, upon firing, scan the page and send information about the vulnerable page to the XSS Hunter service.                                                                                                    |
 | Cookie-editor   | Web      | https://github.com/Moustachauve/cookie-editor                  | Browser extension to create, edit and delete cookies for the current tab.                                                                                                                                                                                                                                                                                      |
 | Chrome DevTools | Web      | https://developer.chrome.com/docs/devtools/                    | Chrome provides a set of tools for web developers. These tools are built into Google Chrome. It has the functionality to view and change the DOM and a Page’s Style. With Chrome DevTools, you will be able to view messages, run & debug JavaScript in the Console, edit the pages on-the-fly, diagnose the problem quickly, and optimize the website speed . |
 | Nessus          | Web      | https://www.tenable.com/downloads/nessus?loginAttempted=true   | An all in one tool that has various featured like network scan , website scan , api scan , etc                                                                                                                                                                                                                                                                 |
@@ -65,8 +66,7 @@
 | Malzilla         | Misc     | https://malzilla.sourceforge.net/             | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers                                        |
 | XOR Calculator   | Misc     | https://xor.pw/#                              | Browser tool for calculate XOR (biner, decimal, hexadecimal, ASCII) |
 | Warp             | Misc     | https://www.warp.dev/                         | MacOS terminal with many great features out of the box without any additional setup                                            |
-
-
+| A-Packet             | Misc     | https://apackets.com/                         | Online pcap file analyzer. Allow read and view pcap file online. Explore IPv4/IPv6, HTTP, Telnet, FTP, DNS, SSDP, WPA2 protocols details.                                            |
 
 
 
@@ -106,6 +106,8 @@
 | Grepp            | OSINT    | https://grep.app/                            | Searches across git repos using normal keywords
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                     |
 | Osintgram          | OSINT    | https://github.com/Datalux/Osintgram           |Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.This tool help to collect, analyze, and run reconnaissance.
+| CRT.SH          | OSINT    | https://crt.sh/           |Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.
+
 
 
 
