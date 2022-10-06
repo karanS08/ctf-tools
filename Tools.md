@@ -109,7 +109,7 @@
 | crt.sh             | OSINT    | https://crt.sh/                                | Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.         |
 | geocreepy          | OSINT    | http://geocreepy.com                           | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.                                                                                  |
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
-                    |
+
 
 
 
@@ -153,8 +153,9 @@
 | UsnJrnl2Csv            | Forensics | https://github.com/jschicht/UsnJrnl2Csv                     | Parser for $UsnJrnl on NTFS                                                                                                                                                                                                       |
 | fcrackzip              | Forensics | https://github.com/hyc/fcrackzip                            | Brute-force guesses a zip password (for passwords <7 characters or so)                                                                                                                                                            |
 | pngtools               | Forensics | https://github.com/mikalstill/pngtools                      | An open-source tool to dissect pngs.                                                                                                                                                                                              |
-
-
+| Foto Forensics | Forensics | https://fotoforensics.com/ | Best Online tool for Stegnography and photo forensics | 
+| Aprisolve | Forensics | https://www.aperisolve.com/ | Best All in one tools for scaning image and zip files for Forensics | 
+| Magic Eye Solver | Forensics | https://magiceye.ecksdee.co.uk/ | high level forensics tool |
 
 
 
@@ -203,6 +204,10 @@
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
 | Patator       | Crypto   | https://github.com/lanjelot/patator         | Patator is a multi-purpose brute-forcer, with a modular design.                                                       |
 | rot 13        |          | Crypto                                      | https://rot13.com/                                                                                                    | Used to encode/decode rot1 to rot26. |
+| de4js | Crypto | https://lelinhtinh.github.io/de4js/ | JavaScript Deobfuscator and Unpacker |
+| JS Fuck encoder | Crypto | http://www.jsfuck.com/ | Javascript function encoder in new form | 
+| Brain Fuck | Crypto | https://www.dcode.fr/brainfuck-language | brain fuck language encoder and decoder |
+
 
 
 <br>
