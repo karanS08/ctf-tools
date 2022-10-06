@@ -38,6 +38,8 @@
 | Wappalyzer      | Web      | https://github.com/wappalyzer/wappalyzer                       | Browser extension which identifies technologies on websites                                                                                                                                                                                                                                                                                                    |
 | Raccoon         | Web      | https://github.com/evyatarmeged/Raccoon                        | A high-performance offensive security tool for reconnaissance and vulnerability scanning |
 | ffuf            | Web      | https://github.com/ffuf/ffuf                                   | Fast web fuzzer written in Go  |
+| Arjun           | Web      | https://github.com/s0md3v/Arjun                                | HTTP parameter discovery suite. |
+| gf              | Web      | https://github.com/tomnomnom/gf                                | A wrapper around grep, to help you grep for things | 
 
 
 
