@@ -241,3 +241,7 @@
 | SCWF            | Bruteforcer   | https://github.com/DaWouw/SCWF      | CTF tool for identifying, brute forcing and decoding encryption schemes in an automated way |
 | Stegbrute       | Bruteforcer   | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool |
 | Outguess        | Bruteforcer   | https://github.com/resurrecting-open-source-projects/outguess | Useful in forensics investigations and security actions |
+| Rainbow Crack   | Bruteforcer   | http://project-rainbowcrack.com/                         | Generates rainbow tables to be used in recovering passwords |
+| DaveGrohl       | Bruteforcer   |https://github.com/octomagon/davegrohl                    | Brute-forcing tool for Mac OS X|
+| THC Hydra       | Bruteforcer   |https://sectools.org/tool/hydra/                          | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
+| Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
