@@ -39,6 +39,8 @@
 | ffuf            | Web      | https://github.com/ffuf/ffuf                                   | Fast web fuzzer written in Go                                                                                                                                                                                                                                                                                                                                  |
 | lfimap          | Web      | https://github.com/hansmach1ne/lfimap                          | Local file inclusion discovery and exploitation tool                                                                                                                                                                                                                                                                                                           |
 | mitmproxy       | Web      | https://mitmproxy.org                                          | Mitmproxy is a free and open source interactive HTTPS proxy.                                                                                                                                                                                                                                                                                                   |
+| Arjun           | Web      | https://github.com/s0md3v/Arjun                                | HTTP parameter discovery suite. |
+| gf              | Web      | https://github.com/tomnomnom/gf                                | A wrapper around grep, to help you grep for things |
 
 
 
