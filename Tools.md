@@ -239,3 +239,4 @@
 | SCWF            | Bruteforcer   | https://github.com/DaWouw/SCWF      | CTF tool for identifying, brute forcing and decoding encryption schemes in an automated way |
 | Stegbrute       | Bruteforcer   | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool |
 | Outguess        | Bruteforcer   | https://github.com/resurrecting-open-source-projects/outguess | Useful in forensics investigations and security actions |
+| XSStrike        | Advanced XSS Detection Suite   | https://github.com/s0md3v/XSStrike | XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler. |
