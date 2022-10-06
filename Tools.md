@@ -230,7 +230,7 @@
 | cutter              | Reverse Engineering | https://github.com/rizinorg/cutter                         | Reverse Engineering platform (disassembler)                                                                                                                                                                                                                               |
 | gdb                 | Reverse Engineering | https://www.sourceware.org/gdb/                            | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                                                                                                                                           |
 | pe-bear             | Reverse Engineering | https://github.com/hasherezade/pe-bear                     | Portable Executable reversing tool with a friendly GUI                                                                                                                                                                                                                    |
-
+| fREdom             | Reverse Engineering | https://github.com/cseagle/fREedom                     | Software that extracts disassembly information from executables                                                                                                                                                                                                                    |
 
 <br>
 <h1 align="center"> Brute Forcing Tools  </h1>
