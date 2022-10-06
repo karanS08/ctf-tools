@@ -66,8 +66,22 @@ Steps for adding your name in the CONTRIBUTERS.md File
     13. Make your pull request 🙌🏽.
     14. Don't forget to star the repo 🙂.
 
-
 ----
+
+
+   **_NOTE_ :** Don't Forget to sync your local repository with the github repository. 
+   
+   Step 1. Update the forked github repository by clicking Sync fork button and then clicking update branch.
+   
+   Step 2. Pull these changes to the new branch you've created.
+   
+   Step 3. Pull the changes in your local using 
+   
+   ---
+   
+   git pull origin main
+   
+   ----
 
 
 # Special Note 
