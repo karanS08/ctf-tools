@@ -239,3 +239,4 @@
 | SCWF            | Bruteforcer   | https://github.com/DaWouw/SCWF      | CTF tool for identifying, brute forcing and decoding encryption schemes in an automated way |
 | Stegbrute       | Bruteforcer   | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool |
 | Outguess        | Bruteforcer   | https://github.com/resurrecting-open-source-projects/outguess | Useful in forensics investigations and security actions |
+| Hydra           | Bruteforcer   | https://www.kali.org/tools/hydra/                       | It is a parallelized login cracker which supports numerous protocols to attack
