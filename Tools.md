@@ -203,6 +203,7 @@
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
 | Patator       | Crypto   | https://github.com/lanjelot/patator         | Patator is a multi-purpose brute-forcer, with a modular design.                                                       |
 | rot 13        |          | Crypto                                      | https://rot13.com/                                                                                                    | Used to encode/decode rot1 to rot26. |
+| codext        | Crypto   | https://github.com/dhondta/python-codext         | Python codecs extension featuring CLI tools for encoding/decoding anything including AI-based guessing mode.                                                       |
 
 
 <br>
