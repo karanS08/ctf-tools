@@ -66,7 +66,6 @@
 | Malzilla         | Misc     | https://malzilla.sourceforge.net/             | Malware hunting tool. It shows you the full source of webpages and all the HTTP headers                                        |
 | XOR Calculator   | Misc     | https://xor.pw/#                              | Browser tool for calculate XOR (biner, decimal, hexadecimal, ASCII) |
 | Warp             | Misc     | https://www.warp.dev/                         | MacOS terminal with many great features out of the box without any additional setup                                            |
-| A-Packet             | Misc     | https://apackets.com/                         | Online pcap file analyzer. Allow read and view pcap file online. Explore IPv4/IPv6, HTTP, Telnet, FTP, DNS, SSDP, WPA2 protocols details.                                            |
 
 
 
@@ -103,10 +102,10 @@
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                        |
-| Grepp            | OSINT    | https://grep.app/                            | Searches across git repos using normal keywords
+| Grepp              | OSINT    | https://grep.app/                              | Searches across git repos using normal keywords
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                     |
-| Osintgram          | OSINT    | https://github.com/Datalux/Osintgram           |Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.This tool help to collect, analyze, and run reconnaissance.
-| CRT.SH          | OSINT    | https://crt.sh/           |Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.
+| Osintgram          | OSINT    | https://github.com/Datalux/Osintgram           |Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.This tool help to collect, analyze, and run reconnaissance.                                    |
+| crt.sh             | OSINT    | https://crt.sh/                                |Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.                                    |
 
 
 
@@ -148,6 +147,7 @@
 | ALEAPP | Forensics | https://github.com/abrignoni/ALEAPP | Android Logs Events And Protobuf Parser |
 | ILEAPP | Forensics | https://github.com/abrignoni/iLEAPP | iOS Logs, Events, And Plists Parser |
 | Autopsy | Forensics | https://www.autopsy.com/ | Powerful tool to analyze disk images. |
+| A-Packet | Forensics | https://apackets.com/ | Online pcap file analyzer. |
 
 
 
