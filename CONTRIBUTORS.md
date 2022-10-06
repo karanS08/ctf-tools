@@ -103,3 +103,4 @@
 | Atul Narayan            | https://github.com/atulnarayan16      |
 | Aniket Dubey            | https://github.com/Aniket1026         |
 | Navin Krishna           | https://github.com/tnkrishnank        |
+| Yash Hax                | https://github.com/yash-hax           |
