@@ -45,6 +45,25 @@
 
 
 
+<br>
+<h1 align="center">Networking</h1>
+<br>
+
+
+
+
+| Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
+| ---------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Aircrack-ng   | Networking  | https://www.aircrack-ng.org/                                | A complete suite of tools to test WiFi network security.                                                         |
+| Masscan       | Networking  | https://github.com/robertdavidgraham/masscan                | Mass IP port scanner, TCP port scanner.                                                                          |
+| Network Miner | Networking  | http://www.netresec.com/?page=NetworkMiner                  | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network                                                                                                             |
+| Nmap          | Networking  | https://nmap.org/                                           | utility for network discovery and security auditing.                                                             |
+| Wireshark     | Networking  | https://wireshark.org/                                      | Network protocol analyzer tool                                                                                   |
+| Zeek          | Networking  | https://zeek.org/                                           | An Open Source Network Security Monitoring Tool                                                                  |
+| Zmap          | Networking  | https://zmap.io                                             | An open-source network scanner.                                                                                  |
+
+
+
 
 <br>
 <h1 align="center"> Misc Tools </h1>
@@ -147,7 +166,6 @@
 | Lookyloo               | Forensics | https://lookyloo.circl.lu/                                  | Webapp allowing to scrape a website and then displays a tree of domains calling each other                                                                                                                                        |
 | Mft2Csv                | Forensics | https://github.com/jschicht/Mft2Csv                         | Extract $MFT record info and log it to a csv file.                                                                                                                                                                                |
 | NTFS Log Tracker       | Forensics | https://sites.google.com/site/forensicnote/ntfs-log-tracker | This tool can parse $LogFile, $UsnJrnl:$J of NTFS and carve UsnJrnl record in multiple files.                                                                                                                                     |
-| Network Miner          | Forensics | http://www.netresec.com/?page=NetworkMiner                  | Network Forensic Analysis Tool. NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network |
 | Sherloq                | Forensics | https://github.com/GuidoBartoli/sherloq                     | An open-source digital image forensic toolset                                                                                                                                                                                     |
 | StegOnline             | Forensics | https://stegonline.georgeom.net/                            | [Steganography](https://en.wikipedia.org/wiki/Steganography) tool for extracting embedded data from images. A web-based, accessible and open-source port of StegSolve.                                                            |
 | UsnJrnl2Csv            | Forensics | https://github.com/jschicht/UsnJrnl2Csv                     | Parser for $UsnJrnl on NTFS                                                                                                                                                                                                       |
@@ -166,12 +184,9 @@
 
 | Name of tool | Category | Link to the tool                                            | Short Description                                                                                     |
 | ------------ | -------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Aircrack-ng  | pwn      | https://www.aircrack-ng.org/                                | A complete suite of tools to test WiFi network security.                                              |
 | Crackmapexec | pwn      | https://github.com/Porchetta-Industries/CrackMapExec        | post-exploitation tool that helps automate assessing the security of large Active Directory networks. |
 | Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS | Shows the ways to escalate privileges on Linux                                                        |
-| Nmap         | pwn      | https://nmap.org/                                           | utility for network discovery and security auditing.                                                  |
 | RustScan     | pwn      | https://github.com/RustScan/RustScan                        | The fast port scanner.                                                                                |
-| Wireshark    | pwn      | https://wireshark.org/                                      | Network protocol analyzer tool                                                                        |
 | metasploit   | pwn      | https://www.metasploit.com/                                 | Very powerful penetration testing framework                                                           |
 | one_gadget   | pwn      | https://github.com/david942j/one_gadget                     | Tool for finding ROP-tools in libc6.so.6                                                              |
 | pwntools     | pwn      | https://github.com/Gallopsled/pwntools                      | Library to develop exploits in Python                                                                 |
