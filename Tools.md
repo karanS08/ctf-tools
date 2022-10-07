@@ -108,8 +108,10 @@
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | crt.sh             | OSINT    | https://crt.sh/                                | Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.         |
 | geocreepy          | OSINT    | http://geocreepy.com                           | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.                                                                                  |
-| octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
-                    |
+| octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework    |
+| WayBackMachine     | OSINT    | https://github.com/hamza34-del/abcctf          | The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive|
+| Shodan.io          | OSINT    | https://www.shodan.io                          |Shodan is the world's first search engine for Internet-connected devices.its used for crawling, IP lookups, searching, data streaming|
+
 
 
 
