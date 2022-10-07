@@ -1,4 +1,8 @@
 
+## Edit 7th october 2022 :
+### This Repo has been EXCLUDED from Haktoberfest swag participation 🥲, but hacktoberfest is not about swags its all about open-source and contributions, so please keep contributing regardless the swags .
+<br>
+
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
       <img src="https://github.com/karanS08/ctf-tools-for-forensics/blob/main/assets/Email%20Banners-Dark.png" width=900px>
