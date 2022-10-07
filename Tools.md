@@ -41,6 +41,7 @@
 | mitmproxy       | Web      | https://mitmproxy.org                                          | Mitmproxy is a free and open source interactive HTTPS proxy.                                                                                                                                                                                                                                                                                                   |
 | Arjun           | Web      | https://github.com/s0md3v/Arjun                                | HTTP parameter discovery suite. |
 | gf              | Web      | https://github.com/tomnomnom/gf                                | A wrapper around grep, to help you grep for things |
+| Amass           | Web      | https://github.com/tomnomnom/gf                                | In-depth Attack Surface Mapping and Asset Discovery |
 
 
 
@@ -109,7 +110,6 @@
 | crt.sh             | OSINT    | https://crt.sh/                                | Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.         |
 | geocreepy          | OSINT    | http://geocreepy.com                           | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.                                                                                  |
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
-                    |
 
 
 
