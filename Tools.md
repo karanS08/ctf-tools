@@ -69,6 +69,7 @@
 | dCode            | Misc     | https://www.dcode.fr/tools-list               | A online tool for identifying and decoding various ciphers                                                                     |
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
 | prezto           | Misc     | https://github.com/sorin-ionescu/prezto       | Prezto is the configuration framework for Zsh                                                                                  |
+| Java Decompiler           | Misc     | https://java-decompiler.github.io/       | The “Java Decompiler project” aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.                                                                                  |
 
 
 
