@@ -1,7 +1,7 @@
 
 
 <bold>
-    just to tell you that this repo has been excuded from hacktoberfest 2022 as it does not adhere to thir=er rules
+    just to tell you that this repo has been excuded from hacktoberfest 2022 as it does not adhere to their rules
     </bold>
 
 <p align="center">
