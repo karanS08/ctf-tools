@@ -1,9 +1,6 @@
 <h1 align="center"> Web Tools </h1>
 <br>
 
-
-
-   
 | Name of tool    | Category | Link to the tool                                               | Short Discription                                                                                                                                                                                                                                                                                                                                              |
 | --------------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Aline           | Web      | https://github.com/ferreiraklet/Aline                          | A tool that simply downloads files of a certain type, located on a certain domain and indexed by Google.                                                                                                                                                                                                                                                       |
@@ -39,19 +36,16 @@
 | ffuf            | Web      | https://github.com/ffuf/ffuf                                   | Fast web fuzzer written in Go                                                                                                                                                                                                                                                                                                                                  |
 | lfimap          | Web      | https://github.com/hansmach1ne/lfimap                          | Local file inclusion discovery and exploitation tool                                                                                                                                                                                                                                                                                                           |
 | mitmproxy       | Web      | https://mitmproxy.org                                          | Mitmproxy is a free and open source interactive HTTPS proxy.                                                                                                                                                                                                                                                                                                   |
-| Arjun           | Web      | https://github.com/s0md3v/Arjun                                | HTTP parameter discovery suite. |
-| gf              | Web      | https://github.com/tomnomnom/gf                                | A wrapper around grep, to help you grep for things |
+| Arjun           | Web      | https://github.com/s0md3v/Arjun                                | HTTP parameter discovery suite.                                                                                                                                                                                                                                                                                                                                |
+| gf              | Web      | https://github.com/tomnomnom/gf                                | A wrapper around grep, to help you grep for things                                                                                                                                                                                                                                                                                                             |
 
-|Pingdom          | Web      | https://tools.pingdom.com/                                     | Pingdom offers cost-effective and reliable uptime and performance monitoring for website. |
+|Pingdom | Web | https://tools.pingdom.com/ | Pingdom offers cost-effective and reliable uptime and performance monitoring for website. |
 
-
+|Figma | Web | https://figma.com | It is a interface tools that enables web developers to collaborate in real time. |
 
 <br>
 <h1 align="center"> Misc Tools </h1>
 <br>
-
-
-
 
 | Name of tool     | Category | Link to the tool                              | Short Description                                                                                                              |
 | ---------------- | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -70,15 +64,9 @@
 | instances        | Misc     | https://instances.vantage.sh/                 | Tool to compare EC2 metrics and pricing on AWS                                                                                 |
 | prezto           | Misc     | https://github.com/sorin-ionescu/prezto       | Prezto is the configuration framework for Zsh                                                                                  |
 
-
-
-
 <br>
 <h1 align="center"> OSINT Tools </h1>
 <br>
-
-
-
 
 | Name of tool       | Category | Link to the tool                               | Short Description                                                                                                                                                                        |
 | ------------------ | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -108,25 +96,13 @@
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | crt.sh             | OSINT    | https://crt.sh/                                | Crt.sh is a site where you could find all the SSL or TLS certificates and subdomains of the particular targeted domain. And the site is open-source to monitor the certificates.         |
 | geocreepy          | OSINT    | http://geocreepy.com                           | A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.                                                                                  |
-| octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework    |
-| WayBackMachine     | OSINT    | https://github.com/hamza34-del/abcctf          | The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive|
-| Shodan.io          | OSINT    | https://www.shodan.io                          |Shodan is the world's first search engine for Internet-connected devices.its used for crawling, IP lookups, searching, data streaming|
-
-
-
-
-
-
-
+| octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
+| WayBackMachine     | OSINT    | https://github.com/hamza34-del/abcctf          | The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive                                                                                           |
+| Shodan.io          | OSINT    | https://www.shodan.io                          | Shodan is the world's first search engine for Internet-connected devices.its used for crawling, IP lookups, searching, data streaming                                                    |
 
 <br>
 <h1 align="center"> Forensics Tool</h1>
 <br>
-
-
-
-
-
 
 | Name of tool           | Category  | Link to the tool                                            | Short Description                                                                                                                                                                                                                 |
 | ---------------------- | --------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,15 +132,9 @@
 | fcrackzip              | Forensics | https://github.com/hyc/fcrackzip                            | Brute-force guesses a zip password (for passwords <7 characters or so)                                                                                                                                                            |
 | pngtools               | Forensics | https://github.com/mikalstill/pngtools                      | An open-source tool to dissect pngs.                                                                                                                                                                                              |
 
-
-
-
-
 <br>
 <h1 align="center"> Pwn Tools </h1>
 <br>
-
-
 
 | Name of tool | Category | Link to the tool                                            | Short Description                                                                                     |
 | ------------ | -------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -178,22 +148,14 @@
 | one_gadget   | pwn      | https://github.com/david942j/one_gadget                     | Tool for finding ROP-tools in libc6.so.6                                                              |
 | pwntools     | pwn      | https://github.com/Gallopsled/pwntools                      | Library to develop exploits in Python                                                                 |
 
-
-
-
-
-
 <br>
 <h1 align="center"> Cryptography Tools </h1>
 <br>
 
-
-
-
 | Name of tool  | Category | Link to the tool                            | Short Description                                                                                                     |
-| ------------- | -------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ------------- | -------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | CTF-CryptTool | Crypto   | https://github.com/karma9874/CTF-CryptoTool | Works for the cipher which does not have a key.                                                                       |
-| CaptfEncoder  | Crypto   | https://github.com/guyoung/CaptfEncoder     | CaptfEncoder is a network security tool suite, cryptography, and asymmetric encryption.                               |  |
+| CaptfEncoder  | Crypto   | https://github.com/guyoung/CaptfEncoder     | CaptfEncoder is a network security tool suite, cryptography, and asymmetric encryption.                               |                                      |
 | Ciphers       | Crypto   | [https://rumkin.com/tools/cipher/]          | A collection of different ciphers tools to encrypt/decrypt messages.                                                  |
 | Featherduster | Crypto   | https://github.com/nccgroup/featherduster   | An automated, modular cryptanalysis tool.                                                                             |
 | Hash-Extender | Crypto   | https://github.com/iagox86/hash_extender    | Tool for performing hash length extension attacks                                                                     |
@@ -205,7 +167,6 @@
 | XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
 | Patator       | Crypto   | https://github.com/lanjelot/patator         | Patator is a multi-purpose brute-forcer, with a modular design.                                                       |
 | rot 13        |          | Crypto                                      | https://rot13.com/                                                                                                    | Used to encode/decode rot1 to rot26. |
-
 
 <br>
 <h1 align="center"> Reverse Engineering Tools </h1>
@@ -233,7 +194,6 @@
 | gdb                 | Reverse Engineering | https://www.sourceware.org/gdb/                            | Tool that lets you step through the assembly code as it runs, and examine the contents of registers and memory.                                                                                                                                                           |
 | pe-bear             | Reverse Engineering | https://github.com/hasherezade/pe-bear                     | Portable Executable reversing tool with a friendly GUI                                                                                                                                                                                                                    |
 
-
 <br>
 <h1 align="center"> Brute Forcing Tools  </h1>
 <br>
@@ -255,4 +215,4 @@
 | Stegbrute       | Bruteforcer | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool                                                          |
 | THC Hydra       | Bruteforcer | https://sectools.org/tool/hydra/                                              | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
 | Twigonometry    | Bruteforcer | https://github.com/Twigonometry/CTF-Tools                                     | Scripts for CTFs and pentest practice                                                       |
-| Hydra           | Bruteforcer   | https://www.kali.org/tools/hydra/                       | It is a parallelized login cracker which supports numerous protocols to attack
+| Hydra           | Bruteforcer | https://www.kali.org/tools/hydra/                                             | It is a parallelized login cracker which supports numerous protocols to attack              |
