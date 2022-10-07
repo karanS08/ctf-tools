@@ -161,7 +161,8 @@
 | one_gadget   | pwn      | https://github.com/david942j/one_gadget                     | Tool for finding ROP-tools in libc6.so.6                                                              |
 | pwntools     | pwn      | https://github.com/Gallopsled/pwntools                      | Library to develop exploits in Python                                                                 |
 | metasploit   | pwn      | https://www.metasploit.com/                                 | Very powerful penetration testing framework                                                           |
-| Nmap         | pwn      | https://nmap.org/                                           | utility for network discovery and security auditing.                                                  |
+| Nmap         | pwn      | https://nmap.org/                                           | utility for network discovery and security auditing.                                                        |
+| libformatstr         | pwn      | https://blog.techorganic.com/2015/07/01/simplifying-format-string-exploitation-with-libformatstr/                               | It helps in simplifying format string exploitation  
 | Wireshark    | pwn      | https://wireshark.org/                                      | Network protocol analyzer tool                                                                        |
 | RustScan     | pwn      | https://github.com/RustScan/RustScan                        | The fast port scanner.                                                                                |
 | Linpeas      | pwn      | https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS | Shows the ways to escalate privileges on Linux                                                        |
@@ -239,5 +240,3 @@
 | SCWF            | Bruteforcer   | https://github.com/DaWouw/SCWF      | CTF tool for identifying, brute forcing and decoding encryption schemes in an automated way |
 | Stegbrute       | Bruteforcer   | https://www.kitploit.com/2021/01/stegbrute-fast-steganography-bruteforce.html | Fast Steganography Bruteforce Tool |
 | Outguess        | Bruteforcer   | https://github.com/resurrecting-open-source-projects/outguess | Useful in forensics investigations and security actions |
-
-| Featherduster       | Web      | https://github.com/nccgroup/featherduster                  | Featherduster is an automated, modular cryptanalysis tool
