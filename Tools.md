@@ -3,7 +3,7 @@
 
 
 
-   
+
 | Name of tool    | Category | Link to the tool                                               | Short Discription                                                                                                                                                                                                                                                                                                                                              |
 | --------------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Aline           | Web      | https://github.com/ferreiraklet/Aline                          | A tool that simply downloads files of a certain type, located on a certain domain and indexed by Google.                                                                                                                                                                                                                                                       |
@@ -111,6 +111,7 @@
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework    |
 | WayBackMachine     | OSINT    | https://github.com/hamza34-del/abcctf          | The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive|
 | Shodan.io          | OSINT    | https://www.shodan.io                          |Shodan is the world's first search engine for Internet-connected devices.its used for crawling, IP lookups, searching, data streaming|
+| HexedIt            | OSINT    | https://hexed.it/                              |HexedIt is used for viewing binary files. In many CTF events the flag is often hidden in binaries like images. HexedIt can be used to find them.
 
 
 
