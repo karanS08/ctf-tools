@@ -42,7 +42,7 @@
 | Arjun           | Web      | https://github.com/s0md3v/Arjun                                | HTTP parameter discovery suite. |
 | gf              | Web      | https://github.com/tomnomnom/gf                                | A wrapper around grep, to help you grep for things |
 
-
+|Pingdom          | Web      | https://tools.pingdom.com/                                     | Pingdom offers cost-effective and reliable uptime and performance monitoring for website. |
 
 
 
