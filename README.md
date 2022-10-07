@@ -1,4 +1,9 @@
 
+
+<bold>
+    just to tell you that this repo has been excuded from hacktoberfest 2022 as it does not adhere to thir=er rules
+    </bold>
+
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
       <img src="https://github.com/karanS08/ctf-tools-for-forensics/blob/main/assets/Email%20Banners-Dark.png" width=900px>
@@ -100,3 +105,4 @@ if you fail to make 4 pull request then you can't get swags or t-shirts.
 <a href = "https://github.com/karanS08/ctf-tools/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=karanS08/ctf-tools"/>
 </a>
+
