@@ -256,3 +256,4 @@
 | THC Hydra       | Bruteforcer | https://sectools.org/tool/hydra/                                              | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
 | Twigonometry    | Bruteforcer | https://github.com/Twigonometry/CTF-Tools                                     | Scripts for CTFs and pentest practice                                                       |
 | Hydra           | Bruteforcer   | https://www.kali.org/tools/hydra/                       | It is a parallelized login cracker which supports numerous protocols to attack
+| OverAPI     | Web         | https://overapi.com/           | It is a site collecting all the cheatsheets. Javascript cheat sheet, Jquery cheat sheet, Css cheat sheet.
