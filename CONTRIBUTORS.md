@@ -105,3 +105,4 @@
 | Navin Krishna           | https://github.com/tnkrishnank        |
 | Patil Sagar             | https://github.com/SagarPatil007      |
 | Yash Hax                | https://github.com/yash-hax           |
+| Jerry Zhu               | https://github.com/Bobliuuu           |
