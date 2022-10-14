@@ -106,3 +106,4 @@
 | Patil Sagar             | https://github.com/SagarPatil007      |
 | Yash Hax                | https://github.com/yash-hax           |
 | Jerry Zhu               | https://github.com/Bobliuuu           |
+| Samkit Shah             | https://github.com/Samkit-shah        |
